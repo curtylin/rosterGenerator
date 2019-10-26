@@ -1,4 +1,4 @@
-class player:
+class NCCAAFootballplayer:
     firstName = ""
     lastname = ""
     year = ""
@@ -120,3 +120,6 @@ class player:
         print (self.firstName + " "+ self.lastname +  " (" + self.number + ")" + " of the " + teamName + teamMascot)
 
 def main():
+    tylerHuntley = NCAAFootballplayer("Tyler", "Huntley", "Sr.", "QB", 1)
+    tylerHuntley.generateCode('u')
+    tylerHuntley.generateC1("University of Utah")

@@ -32,7 +32,6 @@ class player:
             self.year = 'redshirt senior'
         else:
             self.year = 'INVALID'
-
     def fullPositionName(self, _position):
         if _position == 'WR':
             self.position = 'wide reciever'
@@ -111,5 +110,13 @@ class player:
             self.unit = 'o'
         else:
             self.position = 'INVALID'
+    def generateCode (self, teamCharacter):
+        print(teamCharacter + number + unit)
+
+    def generateC1(self, teamName):
+        print (teamName +" "+ self.year + " " + self.position + " " + self.firstName + " "+ self.lastname + " (" + self.number + ")")
+
+    def generateC2(self, teamName, teamMascot):
+        print (self.firstName + " "+ self.lastname +  " (" + self.number + ")" + " of the " + teamName + teamMascot)
 
 def main():

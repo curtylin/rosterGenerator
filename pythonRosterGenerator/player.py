@@ -4,7 +4,7 @@ class NCCAAFootballplayer:
     year = ""
     position = ""
     unit = ""
-    number = 0;
+    number = 0
 
     def __init__(self, _firstName, _lastName, _year, _position, _number):
         self.firstName = _firstName

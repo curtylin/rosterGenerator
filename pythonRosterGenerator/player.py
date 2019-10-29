@@ -11,7 +11,7 @@ class NCCAAFootballplayer:
         self.lastname = _lastName
         fullYearName(_year)
         fullPositionName(_position)
-        number = _number
+        self.number = _number
 
     def fullYearName(self, _year):
         if _year == 'Fr.':
@@ -32,6 +32,7 @@ class NCCAAFootballplayer:
             self.year = 'redshirt senior'
         else:
             self.year = 'INVALID'
+
     def fullPositionName(self, _position):
         if _position == 'WR':
             self.position = 'wide reciever'
@@ -110,16 +111,24 @@ class NCCAAFootballplayer:
             self.unit = 'o'
         else:
             self.position = 'INVALID'
+            self.unit = 'INVALID'
+
     def generateCode (self, teamCharacter):
-        print(teamCharacter + number + unit)
+        return (teamCharacter + number + unit)
 
     def generateC1(self, teamName):
-        print (teamName +" "+ self.year + " " + self.position + " " + self.firstName + " "+ self.lastname + " (" + self.number + ")")
+        return (teamName +" "+ self.year + " " + self.position + " " + self.firstName + " "+ self.lastname + " (" + self.number + ")")
 
     def generateC2(self, teamName, teamMascot):
-        print (self.firstName + " "+ self.lastname +  " (" + self.number + ")" + " of the " + teamName + teamMascot)
+        return (self.firstName + " "+ self.lastname +  " (" + self.number + ")" + " of the " + teamName + " " + teamMascot)
 
 def main():
     tylerHuntley = NCAAFootballplayer("Tyler", "Huntley", "Sr.", "QB", 1)
     tylerHuntley.generateCode('u')
     tylerHuntley.generateC1("University of Utah")
+
+    testFile = open('blahblahblah.txt')
+    listOfLines = testFile.readlines()
+
+    for i in listOfLines:
+        print (i)

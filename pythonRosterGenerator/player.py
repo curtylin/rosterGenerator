@@ -127,8 +127,20 @@ def main():
     tylerHuntley.generateCode('u')
     tylerHuntley.generateC1("University of Utah")
 
-    testFile = open('blahblahblah.txt')
-    listOfLines = testFile.readlines()
+    teamName = "University of Utah"
+    teanCharacter = 'u'
+    teamMascot = "Utes"
+
+    txtfileName = "blahblahblah.txt"
+    readFile = open(txtfileName, 'r')
+    listOfLines = readFile.readlines()
+
+    outputFileName = "blahblahblahProcessed.txt"
+    outputFile = open(outputFileName, 'w+')
 
     for i in listOfLines:
         print (i)
+        currentPlayer = NCAAFootballplayer()
+        outputFile.write(currentPlayer.generateCode(teamCharacterForTextFile))
+        outputFile.write(currentPlayer.generateC1(teamNameForTextFile))
+        outputFile.write(currentPlayer.generateC2(teamName, teamMascot))

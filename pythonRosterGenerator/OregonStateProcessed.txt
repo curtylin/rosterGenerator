@@ -12,7 +12,7 @@ o7o	Oregon State University redshirt sophomore quarterback Nick Moore (7)	Nick M
 o8o	Oregon State University senior wide receiver Trevon Bradford (8)	Trevon Bradford (8) of the Oregon State University Beavers
 o8d	Oregon State University sophomore outside linebacker Matthew Tago (8)	Matthew Tago (8) of the Oregon State University Beavers
 o9o	Oregon State University freshman quarterback Jackson Chryst (9)	Jackson Chryst (9) of the Oregon State University Beavers
-o9d	Oregon State University redshirt junior outside linebacker Rashed ERROR (9)	Rashed ERROR (9) of the Oregon State University Beavers
+o9d	Oregon State University redshirt junior outside linebacker Hamilcar Rashed Jr. (9)	Hamilcar Rashed Jr. (9) of the Oregon State University Beavers
 o12o	Oregon State University junior quarterback Jack Colletto (12)	Jack Colletto (12) of the Oregon State University Beavers
 o13o	Oregon State University redshirt freshman wide receiver Jesiah Irish (13)	Jesiah Irish (13) of the Oregon State University Beavers
 o14d	Oregon State University redshirt sophomore defensive back Kaleb Hayes (14)	Kaleb Hayes (14) of the Oregon State University Beavers
@@ -35,7 +35,7 @@ o23o	Oregon State University freshman running back Ta'Ron Madison (23)	Ta'Ron Ma
 o24d	Oregon State University redshirt sophomore defensive back David Morris (24)	David Morris (24) of the Oregon State University Beavers
 o25d	Oregon State University redshirt sophomore defensive back Moku Watson (25)	Moku Watson (25) of the Oregon State University Beavers
 o26d	Oregon State University freshman defensive back Jojo Forest (26)	Jojo Forest (26) of the Oregon State University Beavers
-o27o	Oregon State University redshirt freshman wide receiver Munyagi ERROR (27)	Munyagi ERROR (27) of the Oregon State University Beavers
+o27o	Oregon State University redshirt freshman wide receiver Rweha Munyagi Jr. (27)	Rweha Munyagi Jr. (27) of the Oregon State University Beavers
 o28d	Oregon State University redshirt freshman defensive back Kitan Oladapo (28)	Kitan Oladapo (28) of the Oregon State University Beavers
 o29d	Oregon State University freshman outside linebacker Cade Brownholtz (29)	Cade Brownholtz (29) of the Oregon State University Beavers
 o29o	Oregon State University redshirt freshman running back Kanoa Shannon (29)	Kanoa Shannon (29) of the Oregon State University Beavers

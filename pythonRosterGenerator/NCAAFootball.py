@@ -110,7 +110,8 @@ for line in readFile:
         if isLastNameCommaFirstName:
             lastAndFirstName = element.split(',')
             if lastAndFirstName[0] in suffixes:
-                lastName = lastName + ' ' + lastAndFirstName[0]
+                lastName = firstName + lastName + ' ' + lastAndFirstName[0]
+                firstNameSet = False
             else:
                 lastName = lastName + lastAndFirstName[0]
             lastNameSet = True
@@ -129,6 +130,7 @@ for line in readFile:
                 lastName = lastName + ' ' + element
                 continue
             else:
+                print('First Name:' + firstName + ' Last Name:'+ lastName)
                 lastName = 'ERROR'
                 
     code = generateCode(teamCharacter, jerseyNumber, unit)

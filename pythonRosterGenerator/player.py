@@ -1,19 +1,35 @@
+import re
+
 class NCCAAFootballplayer:
     firstName = ""
     lastname = ""
     year = ""
     position = ""
     unit = ""
-    number = 0
+    jerseyNumber = 0
+    schoolName = ""
+    teamCharacter = ""
+    teamMascot = ""
 
-    def __init__(self, _firstName, _lastName, _year, _position, _number):
+    def __init__(self):
+        jerseyNumber = 0
+
+    def generateCode (self):
+        return (self.teamCharacter + self.number + self.unit)
+
+    def generateC1(self):
+        return (self.schoolName +" "+ self.year + " " + self.position + " " + self.firstName + " "+ self.lastname + " (" + self.number + ")")
+
+    def generateC2(self):
+        return (self.firstName + " "+ self.lastname +  " (" + self.number + ")" + " of the " + self.schoolName + " " + self.teamMascot)
+
+    def set_firstName(self, _firstName):
         self.firstName = _firstName
-        self.lastname = _lastName
-        fullYearName(_year)
-        fullPositionName(_position)
-        self.number = _number
 
-    def fullYearName(self, _year):
+    def set_lastName(self, _lastName):
+        self.lastname = _lastName
+
+    def set_YearName(self, _year):
         if _year == 'Fr.':
             self.year = 'freshman'
         elif _year == 'So.':
@@ -33,7 +49,7 @@ class NCCAAFootballplayer:
         else:
             self.year = 'INVALID'
 
-    def fullPositionName(self, _position):
+    def set_PositionName(self, _position):
         if _position == 'WR':
             self.position = 'wide reciever'
             self.unit = 'o'
@@ -113,34 +129,52 @@ class NCCAAFootballplayer:
             self.position = 'INVALID'
             self.unit = 'INVALID'
 
-    def generateCode (self, teamCharacter):
-        return (teamCharacter + number + unit)
+    def set_jerseyNumber(self, _jerseyNumber):
+        self.jerseyNumber = _jerseyNumber
 
-    def generateC1(self, teamName):
-        return (teamName +" "+ self.year + " " + self.position + " " + self.firstName + " "+ self.lastname + " (" + self.number + ")")
-
-    def generateC2(self, teamName, teamMascot):
-        return (self.firstName + " "+ self.lastname +  " (" + self.number + ")" + " of the " + teamName + " " + teamMascot)
+    def set_schoolInfo(self, _schoolName, _teamCharacter, _teamMascot):
+        self.schoolName = _schoolName
+        self.teamCharacter = _teamCharacter
+        self.teamMascot = _teamMascot
 
 def main():
-    tylerHuntley = NCAAFootballplayer("Tyler", "Huntley", "Sr.", "QB", 1)
-    tylerHuntley.generateCode('u')
-    tylerHuntley.generateC1("University of Utah")
-
     teamName = "University of Utah"
     teanCharacter = 'u'
     teamMascot = "Utes"
 
     txtfileName = "blahblahblah.txt"
-    readFile = open(txtfileName, 'r')
-    listOfLines = readFile.readlines()
-
     outputFileName = "blahblahblahProcessed.txt"
-    outputFile = open(outputFileName, 'w+')
 
-    for i in listOfLines:
-        print (i)
+    readFile = open(txtfileName, 'r')
+    outputFile = open(outputFileName, 'w')
+
+    for line in readFile:
         currentPlayer = NCAAFootballplayer()
+        set_schoolInfo(teamName, teamCharacter, teamMascot)
+        bool firstNameFound = false
+        for element in line.split():
+            isJerseyNumber = re.search('\d{1,2}', element)
+            if isJerseyNumber:
+                set_jerseyNumber(element)
+                continue
+            isYear = re.search('[A-z]{2}\.{1}', element)
+            if isYear:
+                set_YearName(element)
+                continue
+            isPosition = re.search('[A-Z]{2,3}', element)
+            if isPosition:
+                set_PositionName(element)
+            isName = re.search('[A-z]+', element)
+            if isName:
+                if firstNameFound:
+                    set_lastName(element)
+                    continue
+                else:
+                    set_firstName(element)
+                    continue
+
         outputFile.write(currentPlayer.generateCode(teamCharacterForTextFile))
         outputFile.write(currentPlayer.generateC1(teamNameForTextFile))
         outputFile.write(currentPlayer.generateC2(teamName, teamMascot))
+
+    readFile.close()

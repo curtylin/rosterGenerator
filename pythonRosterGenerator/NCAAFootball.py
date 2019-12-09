@@ -11,9 +11,13 @@ def generateC2(firstName, lastName, number, schoolName, teamMascot):
 
 yearNameDicionary = {
     'Fr.': 'freshman',
+    'FR': 'freshman',
     'So.': 'sophomore',
+    'SO': 'sophomore',
     'Jr.': 'junior',
+    'JR': 'junior',
     'Sr.': 'senior',
+    'SR': 'senior',
     'R-Fr.': 'redshirt freshman',
     'R-So.': 'redshirt sophomore',
     'R-Jr.': 'redshirt junior',
@@ -21,7 +25,7 @@ yearNameDicionary = {
 }
 
 positionAndUnitDictionary ={
-    'WR': ('wide reciever', 'o'),
+    'WR': ('wide receiver', 'o'),
     'CB': ('cornerback', 'd'),
     'NB': ('nickelback', 'd'),
     'DB': ('defensive back', 'd'),
@@ -50,11 +54,21 @@ positionAndUnitDictionary ={
     'Spec': ('specialist','s')
 }
 
-schoolName = "University of Oregon"
-teamCharacter = 'o'
-teamMascot = "Ducks"
+suffixes = {
+    'Jr.': 'Jr.',
+    'Sr.': 'Sr.',
+    'II': 'II',
+    'III': 'III',
+    'IV': 'IV',
+    'V': 'V',
+    'VI': 'VI'
+}
 
-txtfileName = "Oregon"
+schoolName = "Oregon State University"
+teamCharacter = 'o'
+teamMascot = "Beavers"
+
+txtfileName = "OregonState"
 outputFileName = txtfileName + "Processed.txt"
 
 readFile = open(txtfileName + ".txt", 'r', encoding='cp1252')
@@ -80,8 +94,8 @@ for line in readFile:
             jerseyNumber = int(element)
             jerseyNumberSet = True
             continue
-        isYear = re.search('(^[A-z]{2}\.{1}$|^R-[A-z]{2}\.{1}$)', element)
-        if isYear:
+        isYear = re.search('(^[A-z]{2}\.{1}$|^R-[A-z]{2}\.{1}$|[A-Z]{2})', element)
+        if isYear and positionNameSet or element in yearNameDicionary:
             year = yearNameDicionary[element]
             yearNameSet = True
             continue
@@ -92,16 +106,31 @@ for line in readFile:
             unit = positionAndUnit[1]
             positionNameSet = True
             continue
-        isName = re.search('[A-z]+', element)
-        if isName and not lastNameSet:
-            if firstNameSet:
-                lastName = element
-                lastNameSet = True
-                continue
+        isLastNameCommaFirstName = re.search('([A-z]+,|([A-z]+.,))', element)
+        if isLastNameCommaFirstName:
+            lastAndFirstName = element.split(',')
+            if lastAndFirstName[0] in suffixes:
+                lastName = lastName + ' ' + lastAndFirstName[0]
             else:
+                lastName = lastName + lastAndFirstName[0]
+            lastNameSet = True
+            continue
+        isName = re.search('([A-z]+)', element)
+        if isName:
+            if not firstNameSet:
                 firstName = element
                 firstNameSet = True
                 continue
+            elif not lastNameSet:
+                lastName = lastName + element 
+                lastNameSet = True
+                continue
+            elif element in suffixes:
+                lastName = lastName + ' ' + element
+                continue
+            else:
+                lastName = 'ERROR'
+                
     code = generateCode(teamCharacter, jerseyNumber, unit)
     c1 = generateC1(schoolName, year, position, firstName, lastName, jerseyNumber)
     c2 = generateC2(firstName, lastName, jerseyNumber, schoolName, teamMascot)

@@ -1,0 +1,114 @@
+o1o	Oregon State University redshirt sophomore wide receiver Tyjon Lindsey (1)	Tyjon Lindsey (1) of the Oregon State University Beavers
+o2o	Oregon State University redshirt sophomore running back Calvin Tyler Jr. (2)	Calvin Tyler Jr. (2) of the Oregon State University Beavers
+o2d	Oregon State University redshirt senior defensive back Shawn Wilson (2)	Shawn Wilson (2) of the Oregon State University Beavers
+o3o	Oregon State University redshirt sophomore quarterback Tristan Gebbia (3)	Tristan Gebbia (3) of the Oregon State University Beavers
+o3d	Oregon State University redshirt sophomore defensive back Jaydon Grant (3)	Jaydon Grant (3) of the Oregon State University Beavers
+o4d	Oregon State University redshirt freshman defensive back Jaden Robinson (4)	Jaden Robinson (4) of the Oregon State University Beavers
+o4o	Oregon State University redshirt sophomore quarterback Aidan Willard (4)	Aidan Willard (4) of the Oregon State University Beavers
+o5o	Oregon State University redshirt sophomore wide receiver Kolby Taylor (5)	Kolby Taylor (5) of the Oregon State University Beavers
+o6o	Oregon State University redshirt senior quarterback Jake Luton (6)	Jake Luton (6) of the Oregon State University Beavers
+o6d	Oregon State University sophomore outside linebacker John McCartan (6)	John McCartan (6) of the Oregon State University Beavers
+o7o	Oregon State University redshirt sophomore quarterback Nick Moore (7)	Nick Moore (7) of the Oregon State University Beavers
+o8o	Oregon State University senior wide receiver Trevon Bradford (8)	Trevon Bradford (8) of the Oregon State University Beavers
+o8d	Oregon State University sophomore outside linebacker Matthew Tago (8)	Matthew Tago (8) of the Oregon State University Beavers
+o9o	Oregon State University freshman quarterback Jackson Chryst (9)	Jackson Chryst (9) of the Oregon State University Beavers
+o9d	Oregon State University redshirt junior outside linebacker Rashed ERROR (9)	Rashed ERROR (9) of the Oregon State University Beavers
+o12o	Oregon State University junior quarterback Jack Colletto (12)	Jack Colletto (12) of the Oregon State University Beavers
+o13o	Oregon State University redshirt freshman wide receiver Jesiah Irish (13)	Jesiah Irish (13) of the Oregon State University Beavers
+o14d	Oregon State University redshirt sophomore defensive back Kaleb Hayes (14)	Kaleb Hayes (14) of the Oregon State University Beavers
+o14o	Oregon State University redshirt freshman wide receiver I'Shawn Stewart (14)	I'Shawn Stewart (14) of the Oregon State University Beavers
+o15o	Oregon State University freshman wide receiver Anthony Gould (15)	Anthony Gould (15) of the Oregon State University Beavers
+o15d	Oregon State University redshirt sophomore outside linebacker Addison Gumbs (15)	Addison Gumbs (15) of the Oregon State University Beavers
+o16d	Oregon State University freshman defensive back Akili Arnold (16)	Akili Arnold (16) of the Oregon State University Beavers
+o16o	Oregon State University redshirt sophomore wide receiver Champ Flemings (16)	Champ Flemings (16) of the Oregon State University Beavers
+o17o	Oregon State University junior wide receiver Isaiah Hodgins (17)	Isaiah Hodgins (17) of the Oregon State University Beavers
+o18d	Oregon State University freshman defensive back Alex Austin (18)	Alex Austin (18) of the Oregon State University Beavers
+o19d	Oregon State University freshman defensive back Marcus Harris (19)	Marcus Harris (19) of the Oregon State University Beavers
+o19o	Oregon State University redshirt senior wide receiver Aaron Short (19)	Aaron Short (19) of the Oregon State University Beavers
+o20o	Oregon State University redshirt sophomore running back B.J. Baylor (20)	B.J. Baylor (20) of the Oregon State University Beavers
+o21o	Oregon State University senior running back Artavis Pierce (21)	Artavis Pierce (21) of the Oregon State University Beavers
+o21d	Oregon State University sophomore defensive back Nahshon Wright (21)	Nahshon Wright (21) of the Oregon State University Beavers
+o22o	Oregon State University sophomore running back Jermar Jefferson (22)	Jermar Jefferson (22) of the Oregon State University Beavers
+o22d	Oregon State University freshman defensive back Wynston Russell (22)	Wynston Russell (22) of the Oregon State University Beavers
+o23d	Oregon State University junior defensive back Isaiah Dunn (23)	Isaiah Dunn (23) of the Oregon State University Beavers
+o23o	Oregon State University freshman running back Ta'Ron Madison (23)	Ta'Ron Madison (23) of the Oregon State University Beavers
+o24d	Oregon State University redshirt sophomore defensive back David Morris (24)	David Morris (24) of the Oregon State University Beavers
+o25d	Oregon State University redshirt sophomore defensive back Moku Watson (25)	Moku Watson (25) of the Oregon State University Beavers
+o26d	Oregon State University freshman defensive back Jojo Forest (26)	Jojo Forest (26) of the Oregon State University Beavers
+o27o	Oregon State University redshirt freshman wide receiver Munyagi ERROR (27)	Munyagi ERROR (27) of the Oregon State University Beavers
+o28d	Oregon State University redshirt freshman defensive back Kitan Oladapo (28)	Kitan Oladapo (28) of the Oregon State University Beavers
+o29d	Oregon State University freshman outside linebacker Cade Brownholtz (29)	Cade Brownholtz (29) of the Oregon State University Beavers
+o29o	Oregon State University redshirt freshman running back Kanoa Shannon (29)	Kanoa Shannon (29) of the Oregon State University Beavers
+o30s	Oregon State University senior punter Caleb Lightbourn (30)	Caleb Lightbourn (30) of the Oregon State University Beavers
+o30o	Oregon State University sophomore running back Kase Rogers (30)	Kase Rogers (30) of the Oregon State University Beavers
+o31o	Oregon State University redshirt freshman running back Connor Morton (31)	Connor Morton (31) of the Oregon State University Beavers
+o31d	Oregon State University freshman defensive back Cam Stoudamire (31)	Cam Stoudamire (31) of the Oregon State University Beavers
+o32o	Oregon State University redshirt sophomore running back Mikey Alfieri (32)	Mikey Alfieri (32) of the Oregon State University Beavers
+o32d	Oregon State University freshman inside linebacker Michael Erhart (32)	Michael Erhart (32) of the Oregon State University Beavers
+o33d	Oregon State University redshirt senior defensive back Jalen Moore (33)	Jalen Moore (33) of the Oregon State University Beavers
+o34d	Oregon State University redshirt sophomore inside linebacker Avery Roberts (34)	Avery Roberts (34) of the Oregon State University Beavers
+o35s	Oregon State University freshman kicker Everett Hayes (35)	Everett Hayes (35) of the Oregon State University Beavers
+o35d	Oregon State University redshirt junior defensive back Mason Moran (35)	Mason Moran (35) of the Oregon State University Beavers
+o36d	Oregon State University freshman inside linebacker Omar Speights (36)	Omar Speights (36) of the Oregon State University Beavers
+o37s	Oregon State University redshirt senior long snapper Keegan Firth (37)	Keegan Firth (37) of the Oregon State University Beavers
+o38s	Oregon State University redshirt sophomore punter Luke Loecher (38)	Luke Loecher (38) of the Oregon State University Beavers
+o39s	Oregon State University redshirt senior punter Daniel Rodriguez (39)	Daniel Rodriguez (39) of the Oregon State University Beavers
+o40d	Oregon State University redshirt sophomore inside linebacker Kyrei Fisher (40)	Kyrei Fisher (40) of the Oregon State University Beavers
+o41s	Oregon State University freshman punter Jeffrey Nelson (41)	Jeffrey Nelson (41) of the Oregon State University Beavers
+o41d	Oregon State University senior inside linebacker Shemar Smith (41)	Shemar Smith (41) of the Oregon State University Beavers
+o42d	Oregon State University redshirt junior inside linebacker Doug Taumoelau (42)	Doug Taumoelau (42) of the Oregon State University Beavers
+o43d	Oregon State University redshirt junior inside linebacker Luke Leonnig (43)	Luke Leonnig (43) of the Oregon State University Beavers
+o44o	Oregon State University freshman tight end Cam Sanders (44)	Cam Sanders (44) of the Oregon State University Beavers
+o45d	Oregon State University redshirt junior defensive lineman Simon Sandberg (45)	Simon Sandberg (45) of the Oregon State University Beavers
+o45o	Oregon State University redshirt sophomore tight end Ralph Taufa'asau (45)	Ralph Taufa'asau (45) of the Oregon State University Beavers
+o46s	Oregon State University redshirt senior kicker Jordan Choukair (46)	Jordan Choukair (46) of the Oregon State University Beavers
+o47s	Oregon State University redshirt sophomore kicker Jake Scarton (47)	Jake Scarton (47) of the Oregon State University Beavers
+o48s	Oregon State University freshman long snapper Dylan Black (48)	Dylan Black (48) of the Oregon State University Beavers
+o49d	Oregon State University senior linebacker Andrzej Hughes-Murray (49)	Andrzej Hughes-Murray (49) of the Oregon State University Beavers
+o50d	Oregon State University redshirt junior defensive lineman Jordan Whittley (50)	Jordan Whittley (50) of the Oregon State University Beavers
+o52d	Oregon State University sophomore defensive lineman James Rawls (52)	James Rawls (52) of the Oregon State University Beavers
+o53d	Oregon State University redshirt sophomore inside linebacker Noah Seumalo (53)	Noah Seumalo (53) of the Oregon State University Beavers
+o55o	Oregon State University redshirt junior offensive lineman Keli'i Montibon (55)	Keli'i Montibon (55) of the Oregon State University Beavers
+o55d	Oregon State University redshirt freshman defensive lineman Conner Warick (55)	Conner Warick (55) of the Oregon State University Beavers
+o56o	Oregon State University redshirt senior offensive lineman Clay Cordasco (56)	Clay Cordasco (56) of the Oregon State University Beavers
+o56d	Oregon State University redshirt freshman outside linebacker Riley Sharp (56)	Riley Sharp (56) of the Oregon State University Beavers
+o58o	Oregon State University sophomore offensive lineman Rob Vanderlaan (58)	Rob Vanderlaan (58) of the Oregon State University Beavers
+o60s	Oregon State University redshirt senior long snapper Tommy Merickel (60)	Tommy Merickel (60) of the Oregon State University Beavers
+o61o	Oregon State University freshman offensive lineman Tanner Miller (61)	Tanner Miller (61) of the Oregon State University Beavers
+o63o	Oregon State University senior offensive lineman Gus Lavaka (63)	Gus Lavaka (63) of the Oregon State University Beavers
+o64o	Oregon State University redshirt junior offensive lineman Nathan Eldridge (64)	Nathan Eldridge (64) of the Oregon State University Beavers
+o65o	Oregon State University redshirt sophomore offensive lineman Onesimus Clarke (65)	Onesimus Clarke (65) of the Oregon State University Beavers
+o67o	Oregon State University freshman offensive lineman Joshua Gray (67)	Joshua Gray (67) of the Oregon State University Beavers
+o67d	Oregon State University freshman defensive lineman Kelsen Hennessy (67)	Kelsen Hennessy (67) of the Oregon State University Beavers
+o68o	Oregon State University redshirt sophomore offensive lineman Brandon Kipper (68)	Brandon Kipper (68) of the Oregon State University Beavers
+o69o	Oregon State University redshirt junior offensive lineman Nous Keobounnam (69)	Nous Keobounnam (69) of the Oregon State University Beavers
+o70o	Oregon State University redshirt freshman offensive lineman Jake Levengood (70)	Jake Levengood (70) of the Oregon State University Beavers
+o71o	Oregon State University redshirt sophomore offensive lineman Brock Wellsfry (71)	Brock Wellsfry (71) of the Oregon State University Beavers
+o72o	Oregon State University freshman offensive lineman Nick Suing (72)	Nick Suing (72) of the Oregon State University Beavers
+o73o	Oregon State University redshirt senior offensive lineman Blake Brandel (73)	Blake Brandel (73) of the Oregon State University Beavers
+o74o	Oregon State University freshman offensive lineman Brian Espinoza (74)	Brian Espinoza (74) of the Oregon State University Beavers
+o75d	Oregon State University freshman defensive lineman Evan Bennett (75)	Evan Bennett (75) of the Oregon State University Beavers
+o75o	Oregon State University redshirt sophomore offensive lineman Keldon Littell (75)	Keldon Littell (75) of the Oregon State University Beavers
+o76o	Oregon State University freshman offensive lineman Thomas Sio (76)	Thomas Sio (76) of the Oregon State University Beavers
+o77o	Oregon State University redshirt sophomore offensive lineman Jaelen Bush (77)	Jaelen Bush (77) of the Oregon State University Beavers
+o78o	Oregon State University redshirt sophomore offensive lineman Dakota Napierkowski (78)	Dakota Napierkowski (78) of the Oregon State University Beavers
+o79o	Oregon State University redshirt sophomore offensive lineman Travis Mackay (79)	Travis Mackay (79) of the Oregon State University Beavers
+o81d	Oregon State University freshman outside linebacker Ryan Franke (81)	Ryan Franke (81) of the Oregon State University Beavers
+o81o	Oregon State University redshirt senior tight end Noah Togiai (81)	Noah Togiai (81) of the Oregon State University Beavers
+o82o	Oregon State University redshirt sophomore wide receiver Job Dockery (82)	Job Dockery (82) of the Oregon State University Beavers
+o82d	Oregon State University freshman defensive lineman Cory Stover (82)	Cory Stover (82) of the Oregon State University Beavers
+o83o	Oregon State University freshman tight end Rocco Carley (83)	Rocco Carley (83) of the Oregon State University Beavers
+o84o	Oregon State University sophomore tight end Teagan Quitoriano (84)	Teagan Quitoriano (84) of the Oregon State University Beavers
+o86o	Oregon State University senior wide receiver Andre Bodden (86)	Andre Bodden (86) of the Oregon State University Beavers
+o87o	Oregon State University redshirt sophomore tight end Bryce Bramscher (87)	Bryce Bramscher (87) of the Oregon State University Beavers
+o88o	Oregon State University freshman tight end Luke Musgrave (88)	Luke Musgrave (88) of the Oregon State University Beavers
+o89d	Oregon State University redshirt freshman defensive lineman Sebastian Briski (89)	Sebastian Briski (89) of the Oregon State University Beavers
+o90d	Oregon State University sophomore defensive lineman Isaac Hodgins (90)	Isaac Hodgins (90) of the Oregon State University Beavers
+o91d	Oregon State University redshirt senior defensive lineman Jeromy Reichner (91)	Jeromy Reichner (91) of the Oregon State University Beavers
+o92d	Oregon State University redshirt sophomore outside linebacker Isaac Garcia (92)	Isaac Garcia (92) of the Oregon State University Beavers
+o93d	Oregon State University freshman defensive lineman Charles Moore (93)	Charles Moore (93) of the Oregon State University Beavers
+o95d	Oregon State University redshirt freshman defensive lineman Keishon Dawkins (95)	Keishon Dawkins (95) of the Oregon State University Beavers
+o96d	Oregon State University redshirt senior defensive lineman LaMone Williams (96)	LaMone Williams (96) of the Oregon State University Beavers
+o97d	Oregon State University redshirt sophomore defensive lineman Alexander Skelton (97)	Alexander Skelton (97) of the Oregon State University Beavers
+o98d	Oregon State University redshirt sophomore defensive lineman Cody Anderson (98)	Cody Anderson (98) of the Oregon State University Beavers
+o99d	Oregon State University senior defensive lineman Elu Aydon (99)	Elu Aydon (99) of the Oregon State University Beavers

@@ -1,0 +1,114 @@
+u1o	University of Utah senior quarterback Tyler Huntley (1)	Tyler Huntley (1) of the University of Utah Utes
+u1d	University of Utah junior defensive back Jaylon Johnson (1)	Jaylon Johnson (1) of the University of Utah Utes
+u2d	University of Utah freshman defensive back Aaron Lowe (2)	Aaron Lowe (2) of the University of Utah Utes
+u2o	University of Utah senior running back Zack Moss (2)	Zack Moss (2) of the University of Utah Utes
+u3o	University of Utah senior wide reciever Demari Simpkins (3)	Demari Simpkins (3) of the University of Utah Utes
+u4o	University of Utah sophomore running back Green Chandler, (4)	Green Chandler, (4) of the University of Utah Utes
+u5d	University of Utah senior defensive back Tareke Lewis (5)	Tareke Lewis (5) of the University of Utah Utes
+u5o	University of Utah freshman running back Jordan Wilmore (5)	Jordan Wilmore (5) of the University of Utah Utes
+u6d	University of Utah senior defensive end Bradlee Anae (6)	Bradlee Anae (6) of the University of Utah Utes
+u6o	University of Utah sophomore running back Devin Brumfield (6)	Devin Brumfield (6) of the University of Utah Utes
+u7o	University of Utah junior running back Devonta'e Henry-Cole (7)	Devonta'e Henry-Cole (7) of the University of Utah Utes
+u7o	University of Utah sophomore quarterback Cameron Rising (7)	Cameron Rising (7) of the University of Utah Utes
+u8d	University of Utah sophomore defensive back Bronson Boyd (8)	Bronson Boyd (8) of the University of Utah Utes
+u8o	University of Utah senior wide reciever Derrick Vickers (8)	Derrick Vickers (8) of the University of Utah Utes
+u9d	University of Utah junior linebacker Trennan Carlson (9)	Trennan Carlson (9) of the University of Utah Utes
+u9o	University of Utah senior wide reciever Tyrone Young-Smith (9)	Tyrone Young-Smith (9) of the University of Utah Utes
+u10d	University of Utah sophomore defensive back R.J. Hubert (10)	R.J. Hubert (10) of the University of Utah Utes
+u10o	University of Utah sophomore quarterback Zach Hymas (10)	Zach Hymas (10) of the University of Utah Utes
+u11o	University of Utah redshirt freshman wide reciever Terrell Perriman (11)	Terrell Perriman (11) of the University of Utah Utes
+u12o	University of Utah junior quarterback Drew Lisk (12)	Drew Lisk (12) of the University of Utah Utes
+u12d	University of Utah freshman defensive back Drew Rawls (12)	Drew Rawls (12) of the University of Utah Utes
+u13o	University of Utah freshman wide reciever Donte Banton (13)	Donte Banton (13) of the University of Utah Utes
+u13d	University of Utah senior linebacker Francis Bernard (13)	Francis Bernard (13) of the University of Utah Utes
+u14d	University of Utah senior defensive back Josh Nurse (14)	Josh Nurse (14) of the University of Utah Utes
+u14o	University of Utah freshman quarterback Carter Robinson (14)	Carter Robinson (14) of the University of Utah Utes
+u15d	University of Utah redshirt freshman defensive back Malone Mataele (15)	Malone Mataele (15) of the University of Utah Utes
+u15o	University of Utah sophomore quarterback Jason Shelley (15)	Jason Shelley (15) of the University of Utah Utes
+u16o	University of Utah freshman quarterback Blake Archuleta (16)	Blake Archuleta (16) of the University of Utah Utes
+u16d	University of Utah junior defensive back Nygel King (16)	Nygel King (16) of the University of Utah Utes
+u17s	University of Utah senior placekicker Andrew Strauch (17)	Andrew Strauch (17) of the University of Utah Utes
+u18o	University of Utah junior wide reciever Britain Covey (18)	Britain Covey (18) of the University of Utah Utes
+u19o	University of Utah sophomore wide reciever Bryan Thompson (19)	Bryan Thompson (19) of the University of Utah Utes
+u20d	University of Utah sophomore linebacker Devin Lloyd (20)	Devin Lloyd (20) of the University of Utah Utes
+u21d	University of Utah freshman defensive back Jayden Clemons (21)	Jayden Clemons (21) of the University of Utah Utes
+u21o	University of Utah sophomore wide reciever Solomon Enis (21)	Solomon Enis (21) of the University of Utah Utes
+u22d	University of Utah junior defensive back Vonte Davis (22)	Vonte Davis (22) of the University of Utah Utes
+u23d	University of Utah senior defensive back Julian Blackmon (23)	Julian Blackmon (23) of the University of Utah Utes
+u23o	University of Utah freshman wide reciever Kyrese Rowan (23)	Kyrese Rowan (23) of the University of Utah Utes
+u24d	University of Utah sophomore linebacker Sione Lund (24)	Sione Lund (24) of the University of Utah Utes
+u25o	University of Utah sophomore wide reciever Jaylen Dixon (25)	Jaylen Dixon (25) of the University of Utah Utes
+u26d	University of Utah senior defensive back Terrell Burgess (26)	Terrell Burgess (26) of the University of Utah Utes
+u27d	University of Utah freshman defensive back Alphonso Taylor (27)	Alphonso Taylor (27) of the University of Utah Utes
+u27o	University of Utah junior running back Mason Woodward (27)	Mason Woodward (27) of the University of Utah Utes
+u28d	University of Utah junior defensive back Javelin Guidry (28)	Javelin Guidry (28) of the University of Utah Utes
+u29o	University of Utah freshman wide reciever Sebastian Macaluso (29)	Sebastian Macaluso (29) of the University of Utah Utes
+u29d	University of Utah junior defensive back Nephi Sewell (29)	Nephi Sewell (29) of the University of Utah Utes
+u30d	University of Utah junior defensive back Keala Santiago (30)	Keala Santiago (30) of the University of Utah Utes
+u31d	University of Utah freshman defensive back JaTravis Broughton (31)	JaTravis Broughton (31) of the University of Utah Utes
+u31d	University of Utah freshman defensive back LaCarea Pleasant-Johnson (31)	LaCarea Pleasant-Johnson (31) of the University of Utah Utes
+u32d	University of Utah junior linebacker Moroni Anae (32)	Moroni Anae (32) of the University of Utah Utes
+u33s	University of Utah freshman punter Ben Lennon (33)	Ben Lennon (33) of the University of Utah Utes
+u33s	University of Utah freshman punter Jared March (33)	Jared March (33) of the University of Utah Utes
+u34o	University of Utah freshman running back Micah Bernard (34)	Micah Bernard (34) of the University of Utah Utes
+u34d	University of Utah freshman linebacker Carson Stokes (34)	Carson Stokes (34) of the University of Utah Utes
+u35d	University of Utah freshman defensive back Maxwell Cotton (35)	Maxwell Cotton (35) of the University of Utah Utes
+u35o	University of Utah freshman running back Charlie Vincent (35)	Charlie Vincent (35) of the University of Utah Utes
+u36d	University of Utah freshman linebacker Carson Wheaton (36)	Carson Wheaton (36) of the University of Utah Utes
+u38d	University of Utah sophomore defensive back Stone Azarcon (38)	Stone Azarcon (38) of the University of Utah Utes
+u40o	University of Utah junior tight end Ali'i Niumatalolo (40)	Ali'i Niumatalolo (40) of the University of Utah Utes
+u41d	University of Utah junior defensive end Hauati Pututau (41)	Hauati Pututau (41) of the University of Utah Utes
+u42d	University of Utah sophomore defensive end Mika Tafua (42)	Mika Tafua (42) of the University of Utah Utes
+u43d	University of Utah junior defensive tackle Mufi Hill-Hunt (43)	Mufi Hill-Hunt (43) of the University of Utah Utes
+u44o	University of Utah freshman tight end Soa Rosales (44)	Soa Rosales (44) of the University of Utah Utes
+u44d	University of Utah freshman linebacker Taimi Taimi (44)	Taimi Taimi (44) of the University of Utah Utes
+u45o	University of Utah junior wide reciever Samson Nacua (45)	Samson Nacua (45) of the University of Utah Utes
+u46d	University of Utah freshman defensive end Miki Suguturaga (46)	Miki Suguturaga (46) of the University of Utah Utes
+u47d	University of Utah freshman defensive lineman Steve Moea'i (47)	Steve Moea'i (47) of the University of Utah Utes
+u48s	University of Utah sophomore long snapper Noah Rodriguez-Trammell (48)	Noah Rodriguez-Trammell (48) of the University of Utah Utes
+u49d	University of Utah junior defensive tackle Pita Tonga (49)	Pita Tonga (49) of the University of Utah Utes
+u50d	University of Utah redshirt freshman defensive end Fua Pututau (50)	Fua Pututau (50) of the University of Utah Utes
+u50o	University of Utah junior offensive lineman Orlando Umana (50)	Orlando Umana (50) of the University of Utah Utes
+u51o	University of Utah freshman offensive lineman Keaton Bills (51)	Keaton Bills (51) of the University of Utah Utes
+u51d	University of Utah junior linebacker Samu Elisaia (51)	Samu Elisaia (51) of the University of Utah Utes
+u52d	University of Utah senior defensive tackle John Penisini (52)	John Penisini (52) of the University of Utah Utes
+u53o	University of Utah freshman offensive lineman Johnny Maea (53)	Johnny Maea (53) of the University of Utah Utes
+u54d	University of Utah freshman linebacker Hayden Furey (54)	Hayden Furey (54) of the University of Utah Utes
+u54o	University of Utah redshirt freshman offensive lineman Paul Maile (54)	Paul Maile (54) of the University of Utah Utes
+u55o	University of Utah sophomore offensive lineman Nick Ford (55)	Nick Ford (55) of the University of Utah Utes
+u55d	University of Utah redshirt freshman linebacker Andrew Mata'afa (55)	Andrew Mata'afa (55) of the University of Utah Utes
+u56d	University of Utah redshirt freshman defensive end Tyler Gonzalez (56)	Tyler Gonzalez (56) of the University of Utah Utes
+u57d	University of Utah redshirt freshman defensive tackle Eli Morrow (57)	Eli Morrow (57) of the University of Utah Utes
+u64o	University of Utah freshman offensive lineman Marist Talavou (64)	Marist Talavou (64) of the University of Utah Utes
+u65o	University of Utah senior offensive lineman Paul Toala (65)	Paul Toala (65) of the University of Utah Utes
+u66o	University of Utah senior offensive lineman Kyle Lanterman (66)	Kyle Lanterman (66) of the University of Utah Utes
+u69o	University of Utah redshirt freshman offensive lineman Simi Moala (69)	Simi Moala (69) of the University of Utah Utes
+u71o	University of Utah redshirt freshman offensive lineman Braeden Daniels (71)	Braeden Daniels (71) of the University of Utah Utes
+u72o	University of Utah freshman offensive lineman Luke Felix-Fualalo (72)	Luke Felix-Fualalo (72) of the University of Utah Utes
+u73o	University of Utah junior offensive lineman Bamidele Olaseni (73)	Bamidele Olaseni (73) of the University of Utah Utes
+u75o	University of Utah senior offensive lineman Alex Locklear (75)	Alex Locklear (75) of the University of Utah Utes
+u76o	University of Utah junior offensive lineman London Bartholomew (76)	London Bartholomew (76) of the University of Utah Utes
+u77o	University of Utah senior offensive lineman Darrin Paulo (77)	Darrin Paulo (77) of the University of Utah Utes
+u78o	University of Utah freshman offensive lineman Sataoa Laumea (78)	Sataoa Laumea (78) of the University of Utah Utes
+u80o	University of Utah sophomore tight end Brant Kuithe (80)	Brant Kuithe (80) of the University of Utah Utes
+u81o	University of Utah freshman wide reciever Robbie Colenzo (81)	Robbie Colenzo (81) of the University of Utah Utes
+u82o	University of Utah sophomore wide reciever Dylan Slavens (82)	Dylan Slavens (82) of the University of Utah Utes
+u83o	University of Utah freshman wide reciever Cameron Gardner (83)	Cameron Gardner (83) of the University of Utah Utes
+u84o	University of Utah redshirt freshman wide reciever Dominique Thompson (84)	Dominique Thompson (84) of the University of Utah Utes
+u85o	University of Utah senior tight end Hunter Thedford (85)	Hunter Thedford (85) of the University of Utah Utes
+u86o	University of Utah freshman wide reciever Devaughn Vele (86)	Devaughn Vele (86) of the University of Utah Utes
+u87o	University of Utah redshirt freshman tight end Thomas Yassmin (87)	Thomas Yassmin (87) of the University of Utah Utes
+u88o	University of Utah junior tight end Bapa Falemaka (88)	Bapa Falemaka (88) of the University of Utah Utes
+u89o	University of Utah sophomore tight end Cole Fotheringham (89)	Cole Fotheringham (89) of the University of Utah Utes
+u90d	University of Utah sophomore defensive tackle Scott Foley (90)	Scott Foley (90) of the University of Utah Utes
+u91d	University of Utah redshirt freshman defensive end Blake Kuithe (91)	Blake Kuithe (91) of the University of Utah Utes
+u92d	University of Utah junior defensive end Maxs Tupai (92)	Maxs Tupai (92) of the University of Utah Utes
+u93d	University of Utah freshman defensive lineman Semisi Lauaki (93)	Semisi Lauaki (93) of the University of Utah Utes
+u93s	University of Utah junior long snapper Keegan Markgraf (93)	Keegan Markgraf (93) of the University of Utah Utes
+u94d	University of Utah freshman defensive lineman Falcon Kaumatule (94)	Falcon Kaumatule (94) of the University of Utah Utes
+u94d	University of Utah freshman defensive tackle Jake Mitten (94)	Jake Mitten (94) of the University of Utah Utes
+u95d	University of Utah senior defensive end Malik Haynes (95)	Malik Haynes (95) of the University of Utah Utes
+u96INVALID	University of Utah junior INVALID Nels Bountiful (96)	Nels Bountiful (96) of the University of Utah Utes
+u97s	University of Utah freshman placekicker Jadon Redding (97)	Jadon Redding (97) of the University of Utah Utes
+u98d	University of Utah junior defensive tackle Viane Moala (98)	Viane Moala (98) of the University of Utah Utes
+u99d	University of Utah senior defensive tackle Leki Fotu (99)	Leki Fotu (99) of the University of Utah Utes

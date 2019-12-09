@@ -1,0 +1,114 @@
+1	Tyler Huntley	Sr.	QB	6-1	205	Dania, Fla. / Hallandale HS
+1	Jaylon Johnson	Jr.	DB	6-0	195	Fresno, Calif. / Central East HS
+2	Aaron Lowe	Fr.	DB	6-0	179	Mesquite, Texas / West Mesquite HS
+2	Zack Moss	Sr.	RB	5-10	222	Hialeah Gardens, Fla. / Hallandale HS
+3	Demari Simpkins	Sr.	WR	5-10	187	Carol City, Fla. / Hallandale HS
+4	TJ Green	So.	RB	5-11	205	Chandler, Ariz. / Chandler HS
+5	Tareke Lewis	Sr.	DB	5-11	180	Palatka, Fla. / Riverside CC
+5	Jordan Wilmore	Fr.	RB	5-8	206	Los Angeles, Calif. / Lawndale HS
+6	Bradlee Anae	Sr.	DE	6-3	265	Laie, Hawaii / Kahuku HS
+6	Devin Brumfield	So.	RB	5-10	218	Covington, La. / Covington HS
+7	Devonta'e Henry-Cole	Jr.	RB	5-11	196	Boca Raton, Fla. / St. Thomas Aquinas HS
+7	Cameron Rising	So.	QB	6-2	225	Ventura, Calif. / Texas
+8	Bronson Boyd	So.	DB	6-0	192	Arlington, Texas / Texas Tech
+8	Derrick Vickers	Sr.	WR	5-11	190	Bakersfield, Calif. / Bakersfield College
+9	Trennan Carlson	Jr.	LB	6-2	235	Ventura, Calif. / Ventura College
+9	Tyrone Young-Smith	Sr.	WR	6-4	203	Fresno, Calif. / Edison HS
+10	R.J. Hubert	So.	DB	6-0	198	Logandale, Nev. / Moapa Valley HS
+10	Zach Hymas	So.	QB	6-2	205	Logandale, Nev. / Weber State
+11	Terrell Perriman	R-Fr.	WR	5-11	185	Miami, Fla. / Miami Central HS
+12	Drew Lisk	Jr.	QB	6-1	205	Draper, Utah / Jordan HS
+12	Drew Rawls	Fr.	DB	6-0	184	Beaumont, Texas / West Brook Senior HS
+13	Donte Banton	Fr.	WR	6-1	190	Lauderhill, Fla. / Deerfield Beach HS
+13	Francis Bernard	Sr.	LB	6-1	235	Herriman, Utah / BYU
+14	Josh Nurse	Sr.	DB	6-3	200	Fayetteville, Ga. / Blinn College
+14	Carter Robinson	Fr.	QB	5-10	182	Appleton, Wis. / Appleton North HS
+15	Malone Mataele	R-Fr.	DB	5-11	183	Placentia, Calif. / Santa Margarita Catholic HS
+15	Jason Shelley	So.	QB	5-11	200	Frisco, Texas / Lone Star HS
+16	Blake Archuleta	Fr.	QB	6-0	185	Yorba Linda, Calif. / Bishop Amat HS
+16	Nygel King	Jr.	DB	6-0	180	Tomball, Texas / Klein Oak HS
+17	Andrew Strauch	Sr.	PK	5-11	180	Piedmont, Calif. / UCLA
+18	Britain Covey	Jr.	WR	5-8	170	Provo, Utah / Timpview HS
+19	Bryan Thompson	So.	WR	6-2	205	Moreno Valley, Calif. / Rancho Verde HS
+20	Devin Lloyd	So.	LB	6-3	235	Chula Vista, Calif. / Otay Ranch HS
+21	Jayden Clemons	Fr.	DB	6-1	197	Lehi, Utah / Skyridge HS
+21	Solomon Enis	So.	WR	6-3	205	Phoenix, Ariz. / North Canyon HS
+22	Vonte Davis	Jr.	DB	6-0	190	Rosenberg, Texas / Blinn College
+23	Julian Blackmon	Sr.	DB	6-1	204	Layton, Utah / Layton HS
+23	Kyrese Rowan	Fr.	WR	5-10	174	Ogden, Utah / Roy HS
+24	Sione Lund	So.	LB	6-0	235	Holladay, Utah / Stanford
+25	Jaylen Dixon	So.	WR	5-9	170	Frisco, Texas / Lone Star HS
+26	Terrell Burgess	Sr.	DB	6-0	198	San Marcos, Calif. / San Marcos HS
+27	Alphonso Taylor	Fr.	DB	6-0	180	Phoenix, Ariz. / North Canyon HS
+27	Mason Woodward	Jr.	RB	5-9	216	West Point, Utah / Syracuse HS
+28	Javelin K. Guidry	Jr.	DB	5-9	193	Murrieta, Calif. / Vista Murrieta HS
+29	Sebastian Macaluso	Fr.	WR	-		Westlake Village, Calif. / Oaks Christian HS
+29	Nephi Sewell	Jr.	DB	6-0	210	St. George, Utah / Nevada
+30	Keala Santiago	Jr.	DB	5-11	207	Hauuloa, Hawaii / Hawaii
+31	JaTravis Broughton	Fr.	DB	6-0	190	Tulsa, Okla. / Union HS
+31	LaCarea Pleasant-Johnson	Fr.	DB	6-0	161	Phoenix, Ariz. / Mountain Pointe HS
+32	Moroni Anae	Jr.	LB	6-1	243	San Diego, Calif. / Riverside CC
+33	Ben Lennon	Fr.	P	6-2	205	Viewbank, Australia / Swinburne University
+33	Jared March	Fr.	P	5-11	180	Twin Falls, Idaho / Canyon Ridge HS
+34	Micah Bernard	Fr.	RB	5-11	200	Long Beach, Calif. / Gahr HS
+34	Carson Stokes	Fr.	LB	6-0	210	Layton, Utah / Northridge HS
+35	Maxwell Cotton	Fr.	DB	5-8	175	Los Angeles, Calif. / Notre Dame HS
+35	Charlie Vincent	Fr.	RB	5-10	170	Salt Lake City, Utah / East HS
+36	Carson Wheaton	Fr.	LB	6-1	197	South Jordan, Utah / Summit Academy HS
+38	Stone Azarcon	So.	DB	6-3	207	Draper, Utah / Juan Diego HS
+40	Ali'i Niumatalolo	Jr.	TE	6-2	235	Annapolis, Md. / Broadneck HS
+41	Hauati Pututau	Jr.	DE	6-3	310	Salt Lake City / Cottonwood HS
+42	Mika Tafua	So.	DE	6-3	258	Laie, Hawaii / Kamehameha HS
+43	Mufi Hill-Hunt	Jr.	DT	6-6	282	Sandy, Utah / Michigan State
+44	Soa Rosales	Fr.	TE	6-3	230	Provo, Utah / Provo HS
+44	Taimi Taimi	Fr.	LB	6-2	217	Santa Clara, Utah / Snow Canyon HS
+45	Samson Nacua	Jr.	WR	6-3	200	Provo, Utah / Timpview HS
+46	Miki Suguturaga	Fr.	DE	6-4	267	Kaneohe, Hawaii / Punahou School
+47	Steve Moea'i	Fr.	DL	6-3	265	West Jordan, Utah / West Jordan HS
+48	Noah Rodriguez-Trammell	So.	SN	6-2	222	Van Nuys, Calif. / Notre Dame HS
+49	Pita Tonga	Jr.	DT	6-1	323	Taylorsville, Utah / Highland HS
+50	Fua Pututau	R-Fr.	DE	6-1	274	Salt Lake City, Utah / Cottonwood HS
+50	Orlando Umana	Jr.	OL	6-4	340	Sacramento, Calif. / Grant HS
+51	Keaton Bills	Fr.	OL	6-4	313	Draper, Utah / Corner Canyon HS
+51	Samu Elisaia	Jr.	LB	6-0	246	South Jordan, Utah / Snow College
+52	John Penisini	Sr.	DT	6-2	333	West Jordan, Utah / Snow College
+53	Johnny Maea	Fr.	OL	6-4	305	Salt Lake City, Utah / East HS
+54	Hayden Furey	Fr.	LB	6-2	314	Saratoga Springs, Utah / Westlake HS
+54	Paul Maile	R-Fr.	OL	6-2	300	Salt Lake City, Utah / East HS
+55	Nick Ford	So.	OL	6-5	324	San Pedro, Calif. / San Pedro HS
+55	Andrew Mata'afa	R-Fr.	LB	6-3	225	San Diego, Calif. / Mt. Carmel HS
+56	Tyler Gonzalez	R-Fr.	DE	6-3	245	San Diego, Calif. / Granite Hills HS
+57	Eli Morrow	R-Fr.	DT	6-0	262	Huntsville, Ala. / Huntsville HS
+64	Marist Talavou	Fr.	OL	6-2	320	Norwalk, Calif. / St. John Bosco HS
+65	Paul Toala	Sr.	OL	6-4	339	Burien, Wash. / Dixie State College
+66	Kyle Lanterman	Sr.	OL	6-2	305	Long Beach, Calif. / Woodrow Wilson HS
+69	Simi Moala	R-Fr.	OL	6-7	305	Hawthorne, Calif. / Cathedral HS
+71	Braeden Daniels	R-Fr.	OL	6-4	300	Carrollton, Texas / Hebron HS
+72	Luke Felix-Fualalo	Fr.	OL	6-7	310	Brisbane, Australia / Mater Dei HS
+73	Bamidele Olaseni	Jr.	OL	6-7	332	London, England / Garden City CC
+75	Alex Locklear	Sr.	OL	6-5	330	Huntington, W.Va. / Marshall
+76	London Bartholomew	Jr.	OL	6-2	295	Mesa, Ariz. / Ohio Wesleyan
+77	Darrin Paulo	Sr.	OL	6-5	315	Sacramento, Calif. / Grant HS
+78	Sataoa Laumea	Fr.	OL	6-4	312	Rialto, Calif. / Eisenhower HS
+80	Brant Kuithe	So.	TE	6-2	235	Katy, Texas / Cinco Ranch HS
+81	Robbie Colenzo	Fr.	WR	5-6	161	Downey, Calif. / Warren HS
+82	Dylan Slavens	So.	WR	5-11	180	Springville, Utah / Springville HS
+83	Cameron Gardner	Fr.	WR	5-10	173	Danville, Calif. / Mater Dei HS
+84	Dominique Thompson	R-Fr.	WR	5-11	185	Bueno Park, Calif. / Cypress HS
+85	Hunter Thedford	Sr.	TE	6-6	260	Comanche, Texas / SMU
+86	Devaughn Vele	Fr.	WR	6-4	207	San Diego, Calif. / Rancho Bernardo HS
+87	Thomas Yassmin	R-Fr.	TE	6-5	260	Sydney, Australia / The Scots College
+88	Bapa Falemaka	Jr.	TE	6-3	259	Grantsville, Utah / Judge Memorial HS
+89	Cole Fotheringham	So.	TE	6-4	252	San Clemente, Calif. / San Clemente HS
+90	Scott Foley	So.	DT	-		Provo, Utah / Timpview HS
+91	Blake Kuithe	R-Fr.	DE	6-3	250	Katy, Texas / Cinco Ranch HS
+92	Maxs Tupai	Jr.	DE	6-1	260	Taylorsville, Utah / Murray HS
+93	Semisi Lauaki	Fr.	DL	6-3	283	Hawthorne, Calif. / Leuzinger HS
+93	Keegan Markgraf	Jr.	SN	6-3	231	Hamilton, Ontario / Central Michigan
+94	Falcon Kaumatule	Fr.	DL	6-7	256	Las Vegas, Nev. / Bishop Gorman HS
+94	Jake Mitten	Fr.	DT	6-1	238	San Diego, Calif. / Cathedral Catholic HS
+95	Malik Haynes	Sr.	DE	6-2	250	Hauula, Hawaii / Ventura College
+96	Nels Haltom	Jr.	Spec	5-10	215	Salt Lake City, Utah / Bountiful HS
+97	Jadon Redding	Fr.	PK	5-11	190	Fredericksburg, Va. / Colonial Forge HS
+98	Viane Moala	Jr.	DT	6-6	315	Ili’ili, American Samoa / Hawaii
+99	Leki Fotu	Sr.	DT	6-5	335	West Valley City, Utah / Herriman HS

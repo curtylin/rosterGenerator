@@ -54,10 +54,10 @@ schoolName = "University of Oregon"
 teamCharacter = 'o'
 teamMascot = "Ducks"
 
-txtfileName = "Oregon.txt"
-outputFileName = "UOProcessed.txt"
+txtfileName = "Oregon"
+outputFileName = txtfileName + "Processed.txt"
 
-readFile = open(txtfileName, 'r', encoding='cp1252')
+readFile = open(txtfileName + ".txt", 'r', encoding='cp1252')
 outputFile = open(outputFileName, 'w')
 
 for line in readFile:

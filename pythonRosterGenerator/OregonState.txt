@@ -1,0 +1,114 @@
+1	Lindsey, Tyjon	WR	5-9	193	R-So.	Corona, Calif. / Bishop Gorman (Nev.)
+2	Tyler, Jr., Calvin	RB	5-8	203	R-So.	Beaumont, Texas / Silsbee
+2	Wilson, Shawn	DB	5-9	194	R-Sr.	Pomona, Calif. / Pomona HS
+3	Gebbia, Tristan	QB	6-2	193	R-So.	Calabasas, Calif. / Calabasas
+3	Grant, Jaydon	DB	6-0	188	R-So.	West Linn, Ore. / West Linn HS
+4	Robinson, Jaden	DB	6-0	183	R-Fr.	Auburn, Wash. / Auburn Riverside
+4	Willard, Aidan	QB	6-2	184	R-So.	Napa, Calif. / Justin-Siena
+5	Taylor, Kolby	WR	5-11	211	R-So.	Chandler, Ariz. / Chandler HS
+6	Luton, Jake	QB	6-7	229	R-Sr.	Marysville, Wash. / Marysville-Pilchuck HS
+6	McCartan, John	OLB	6-5	223	So.	Rancho Santa Margarita, Calif. / Santa Margarita Catholic
+7	Moore, Nick	QB	6-0	191	R-So.	Newhall, Calif. / Hart
+8	Bradford, Trevon	WR	6-0	182	Sr.	Oregon City, Ore. / Oregon City HS
+8	Tago, Matthew	OLB	6-2	225	So.	Palmdale, Calif. / Quartz Hill
+9	Chryst, Jackson	QB	6-2	203	Fr.	Palo Alto, Calif. / Palo Alto
+9	Rashed Jr., Hamilcar	OLB	6-4	236	R-Jr.	Phoenix, Ariz. / Chandler HS
+12	Colletto, Jack	QB	6-3	224	Jr.	Camas, Wash. / Camas
+13	Irish, Jesiah	WR	5-11	173	R-Fr.	Snoqualmie, Wash. / Mount Si
+14	Hayes, Kaleb	DB	6-0	184	R-So.	San Bernadino, Calif. / San Gorgonio
+14	Stewart, I'Shawn	WR	5-10	162	R-Fr.	Bolingbrook, Ill. / Bolingbrook
+15	Gould, Anthony	WR	5-8	172	Fr.	Leavenworth, Kansas / West Salem (OR)
+15	Gumbs, Addison	OLB	6-4	242	R-So.	Hayward, Calif. / Stellar Prep
+16	Arnold, Akili	DB	5-11	190	Fr.	Lake Forest, Calif. / Mission Viejo
+16	Flemings, Champ	WR	5-5	141	R-So.	Pasadena, Calif. / Cathedral
+17	Hodgins, Isaiah	WR	6-4	209	Jr.	Oakley, Calif. / Berean Christian HS
+18	Austin, Alex	DB	6-1	169	Fr.	Long Beach, Calif. / Long Beach Poly
+19	Harris, Marcus	DB	5-10	171	Fr.	Portland, Ore. / Grant
+19	Short, Aaron	WR	6-1	208	R-Sr.	Fairfield, Calif. / Rodriguez
+20	Baylor, B.J.	RB	5-11	208	R-So.	Wharton, Texas / Wharton
+21	Pierce, Artavis	RB	5-11	208	Sr.	Lake Alfred, Fla. / Auburndale HS
+21	Wright, Nahshon	DB	6-4	184	So.	East Palo Alto, Calif. / James Logan
+22	Jefferson, Jermar	RB	5-10	214	So.	Harbor City, Calif. / Narbonne
+22	Russell, Wynston	DB	5-9	168	Fr.	Chicago, Ill. / Homewood-Flossmoor
+23	Dunn, Isaiah	DB	6-0	191	Jr.	Antioch, Calif. / Antioch
+23	Madison, Ta'Ron	RB	6-1	218	Fr.	Banning, Calif. / Banning
+24	Morris, David	DB	6-3	210	R-So.	Sherwood, Ore. / Sherwood
+25	Watson, Moku	DB	6-2	187	R-So.	Wahiawa, Hawai'i / Leilehua
+26	Forest, Jojo	DB	5-10	167	Fr.	Orange, Calif. / Mission Viejo
+27	Munyagi Jr., Rweha	WR	6-2	194	R-Fr.	Seattle, Wash. / Archbishop Thomas J. Murphy
+28	Oladapo, Kitan	DB	6-2	201	R-Fr.	Happy Valley, Ore. / Central Catholic
+29	Brownholtz, Cade	OLB	6-3	220	Fr.	Sacramento, Calif. / Jesuit
+29	Shannon, Kanoa	RB	5-9	177	R-Fr.	Kaneohe, HI / Kamehameha
+30	Lightbourn, Caleb	P	6-4	256	Sr.	Washougal, Wash. / Camas
+30	Rogers, Kase	RB	6-0	207	So.	Houston, Texas / Lamar
+31	Morton, Connor	RB	5-9	174	R-Fr.	Springfield, Ore. / Thurston
+31	Stoudamire, Cam	DB	6-1	176	Fr.	Lawrenceville, Ga. / Roosevelt
+32	Alfieri, Mikey	RB	6-0	195	R-So.	Portland, Ore. / Jesuit
+32	Erhart, Michael	ILB	6-0	228	Fr.	Westlake Village, Calif. / Chaminade College Prep
+33	Moore, Jalen	DB	6-0	213	R-Sr.	Denver, Colo. / Upland [CA] HS
+34	Roberts, Avery	ILB	6-1	231	R-So.	Wilmington, Del. / Concord
+35	Hayes, Everett	K	6-0	187	Fr.	Granite Bay, Calif. / Granite Bay
+35	Moran, Mason	DB	6-3	192	R-Jr.	Gilbert, Ariz. / Chandler HS
+36	Speights, Omar	ILB	6-1	233	Fr.	Philadelphia, Penn. / Crescent Valley (OR)
+37	Firth, Keegan	LS	6-4	218	R-Sr.	Corvallis, Ore. / Crescent Valley HS
+38	Loecher, Luke	P	6-4	208	R-So.	Cedar Falls, Iowa / Cedar Falls
+39	Rodriguez, Daniel	P	5-10	206	R-Sr.	Pleasanton, Calif. / Foothill HS
+40	Fisher, Kyrei	ILB	6-1	240	R-So.	Tulsa, Okla. / Union
+41	Nelson, Jeffrey	P	6-2	174	Fr.	Clackamas, Ore. / Clackamas
+41	Smith, Shemar	ILB	6-1	237	Sr.	Miami, Fla. / Jackson HS
+42	Taumoelau, Doug	ILB	6-2	226	R-Jr.	Glendale, Utah / Brighton HS
+43	Leonnig, Luke	ILB	6-0	221	R-Jr.	Eagle, Idaho / Eagle HS
+44	Sanders, Cam	TE	6-3	220	Fr.	Corvallis, Ore. / Crescent Valley
+45	Sandberg, Simon	DL	6-3	271	R-Jr.	Karlstad, Sweden / Tingvalla
+45	Taufa'asau, Ralph	TE	6-4	236	R-So.	Pago Pago, American Samoa / Samoana
+46	Choukair, Jordan	K	6-1	195	R-Sr.	Poway, Calif. / Poway HS
+47	Scarton, Jake	K	6-3	201	R-So.	Hermitage, Penn. / Hickory
+48	Black, Dylan	LS	6-1	217	Fr.	Reno, Nev. / Bishop Manogue
+49	Hughes-Murray, Andrzej	LB	6-2	247	Sr.	Federal Way, Wash. / Federal Way HS
+50	Whittley, Jordan	DL	6-1	324	R-Jr.	Richmond, Calif. / Castlemont
+52	Rawls, James	DL	6-3	263	So.	Inglewood, Calif. / Mira Costa
+53	Seumalo, Noah	ILB	6-1	232	R-So.	Corvallis, Ore. / Corvallis
+55	Montibon, Keli'i	OL	6-2	291	R-Jr.	Hilo, Hawai'i / Kamehameha
+55	Warick, Conner	DL	6-5	261	R-Fr.	Lacey, Wash. / Timberline
+56	Cordasco, Clay	OL	6-5	314	R-Sr.	Cornish, Maine / Kennett
+56	Sharp, Riley	OLB	6-5	236	R-Fr.	Salt Lake City, Utah / Skyline
+58	Vanderlaan, Rob	OL	6-5	267	So.	Berkeley, Calif. / Miramonte
+60	Merickel, Tommy	LS	6-1	219	R-Sr.	Camarillo, Calif. / St. Bonaventure
+61	Miller, Tanner	OL	6-1	277	Fr.	Valencia, Calif. / Valencia
+63	Lavaka, Gus	OL	6-4	347	Sr.	Kearns, Utah / Kearns HS
+64	Eldridge, Nathan	OL	6-3	300	R-Jr.	Anthem, Ariz. / Boulder Creek
+65	Clarke, Onesimus	OL	6-4	310	R-So.	Waianae, Hawaii / Waianae
+67	Gray, Joshua	OL	6-4	287	Fr.	Rancho Cucamonga, Calif. / Rancho Cucamonga
+67	Hennessy, Kelsen	DL	6-5	275	Fr.	Clackamas, Ore. / Clackamas
+68	Kipper, Brandon	OL	6-6	305	R-So.	Caldwell, Idaho / Columbia
+69	Keobounnam, Nous	OL	6-2	285	R-Jr.	Portland, Ore. / Centennial HS
+70	Levengood, Jake	OL	6-4	284	R-Fr.	Vacaville, Calif. / Vacaville
+71	Wellsfry, Brock	OL	6-5	293	R-So.	Richland, Wash. / Hanford
+72	Suing, Nick	OL	6-3	288	Fr.	Mt. Angel, Ore. / Kennedy
+73	Brandel, Blake	OL	6-7	307	R-Sr.	Milwaukie, Ore. / Central Catholic HS
+74	Espinoza, Brian	OL	6-4	279	Fr.	Dublin, Calif. / Clackamas
+75	Bennett, Evan	DL	6-2	272	Fr.	Sacramento, Calif. / Mater Dei
+75	Littell, Keldon	OL	6-4	300	R-So.	Astoria, Ore. / Astoria
+76	Sio, Thomas	OL	6-4	344	Fr.	Anchorage, Alaska / Bartlett
+77	Bush, Jaelen	OL	6-7	280	R-So.	Lacey, Wash. / Timberline
+78	Napierkowski, Dakota	OL	6-4	264	R-So.	Camas, Wash. / Camas
+79	Mackay, Travis	OL	6-7	307	R-So.	Portland, Ore. / Central Catholic
+81	Franke, Ryan	OLB	6-3	216	Fr.	Camarillo, Calif. / Oaks Christian
+81	Togiai, Noah	TE	6-4	246	R-Sr.	West Valley City, Utah / Hunter HS
+82	Dockery, Job	WR	5-11	192	R-So.	Tacoma, WA / Curtis
+82	Stover, Cory	DL	6-6	225	Fr.	Coos Bay, Ore. / Marshfield
+83	Carley, Rocco	TE	6-6	236	Fr.	Mt. Angel, Ore. / Kennedy
+84	Quitoriano, Teagan	TE	6-6	256	So.	Salem, Ore. / Sprague
+86	Bodden, Andre	WR	6-0	173	Sr.	Carson, Calif. / Cathedral HS
+87	Bramscher, Bryce	TE	6-5	228	R-So.	Medford, Ore. / St. Mary's
+88	Musgrave, Luke	TE	6-6	236	Fr.	Bend, Ore. / Bend Senior
+89	Briski, Sebastian	DL	6-3	255	R-Fr.	Pago Pago, American Samoa / Samoana
+90	Hodgins, Isaac	DL	6-0	271	So.	Oakley, Calif. / Berean Christian HS
+91	Reichner, Jeromy	DL	6-2	270	R-Sr.	Philadelphia, Pa. / West Philadelphia Catholic
+92	Garcia, Isaac	OLB	6-4	248	R-So.	Bellevue, Wash. / Bellevue HS
+93	Moore, Charles	DL	6-4	275	Fr.	Louisville, Miss. / Louisville
+95	Dawkins, Keishon	DL	6-5	286	R-Fr.	Wilsonville, Ore. / West Linn
+96	Williams, LaMone	DL	6-3	277	R-Sr.	Kahuku, Hawai'i / Kahuku HS
+97	Skelton, Alexander	DL	6-1	290	R-So.	Honolulu, Hawai'i / Punahou
+98	Anderson, Cody	DL	6-4	272	R-So.	Springfield, Ore. / Thurston
+99	Aydon, Elu	DL	6-3	377	Sr.	Leone, American Samoa / Leone HS

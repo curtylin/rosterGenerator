@@ -9,62 +9,53 @@ def generateC1(schoolName, year, position, firstName, lastName, number):
 def generateC2(firstName, lastName, number, schoolName, teamMascot):
     return (firstName + " "+ lastName +  " (" + str(number) + ")" + " of the " + schoolName + " " + teamMascot)
 
-def get_YearName(_year):
-    if _year == 'Fr.':
-        return ('freshman')
-    elif _year == 'So.':
-        return ('sophomore')
-    elif _year == 'Jr.':
-        return ('junior')
-    elif _year == 'Sr.':
-        return ('senior')
-    elif _year == 'R-Fr.':
-        return ('redshirt freshman')
-    elif _year == 'R-So.':
-        return ('resdshirt sophomore')
-    elif _year == 'R-Jr.':
-        return ('redshirt junior')
-    elif _year == 'R-Sr.':
-        return ('redshirt senior')
-    else:
-        return ('INVALID')
+yearNameDicionary = {
+    'Fr.': 'freshman',
+    'So.': 'sophomore',
+    'Jr.': 'junior',
+    'Sr.': 'senior',
+    'R-Fr.': 'redshirt freshman',
+    'R-So.': 'redshirt sophomore',
+    'R-Jr.': 'redshirt junior',
+    'R-Sr.': 'redshirt senior'
+}
 
-positionAndUnitDictionary = {
-        'WR': ('wide reciever', 'o'),
-        'CB': ('cornerback', 'd'),
-        'NB': ('nickelback', 'd'),
-        'DB': ('defensive back', 'd'),
-        'S': ('safety', 'd'),
-        'QB': ('quarterback', 'o'),
-        'LB': ('linebacker', 'd'),
-        'ILB': ('inside linebacker', 'd'),
-        'OLB': ('outside linebacker', 'd'),
-        'RB': ('running back', 'o'),
-        'TE': ('tight end', 'o'),
-        'P/PK': ('punter/placekicker','s'),
-        'P': ('punter', 's'),
-        'PK': ('placekicker', 's'),
-        'K': ('kicker', 's'),
-        'LS': ('long snapper', 's'),
-        'DE': ('defensive end', 'd'),
-        'DT': ('defensive tackle', 'd'),
-        'DL': ('defensive lineman', 'd'),
-        'DE/DT': ('defensive end/defensive tackle', 'd'),
-        'OLB/DE': ('outside linebacker/defensive end', 'd'),
-        'OL': ('offensive lineman', 'o'),
-        'G': ('guard', 'o'),
-        'NG': ('nose guard', 'o'),
-        'NT': ('nose tackle', 'o'),
-        'SN': ('long snapper', 's'),
-        'Spec': ('specialist','s')
-    }
+positionAndUnitDictionary ={
+    'WR': ('wide reciever', 'o'),
+    'CB': ('cornerback', 'd'),
+    'NB': ('nickelback', 'd'),
+    'DB': ('defensive back', 'd'),
+    'S': ('safety', 'd'),
+    'QB': ('quarterback', 'o'),
+    'LB': ('linebacker', 'd'),
+    'ILB': ('inside linebacker', 'd'),
+    'OLB': ('outside linebacker', 'd'),
+    'RB': ('running back', 'o'),
+    'TE': ('tight end', 'o'),
+    'P/PK': ('punter/placekicker','s'),
+    'P': ('punter', 's'),
+    'PK': ('placekicker', 's'),
+    'K': ('kicker', 's'),
+    'LS': ('long snapper', 's'),
+    'DE': ('defensive end', 'd'),
+    'DT': ('defensive tackle', 'd'),
+    'DL': ('defensive lineman', 'd'),
+    'DE/DT': ('defensive end/defensive tackle', 'd'),
+    'OLB/DE': ('outside linebacker/defensive end', 'd'),
+    'OL': ('offensive lineman', 'o'),
+    'G': ('guard', 'o'),
+    'NG': ('nose guard', 'o'),
+    'NT': ('nose tackle', 'o'),
+    'SN': ('long snapper', 's'),
+    'Spec': ('specialist','s')
+}
 
-schoolName = "University of Utah"
-teamCharacter = 'u'
-teamMascot = "Utes"
+schoolName = "University of Oregon"
+teamCharacter = 'o'
+teamMascot = "Ducks"
 
-txtfileName = "utahUnedited.txt"
-outputFileName = "utahProcessed.txt"
+txtfileName = "Oregon.txt"
+outputFileName = "UOProcessed.txt"
 
 readFile = open(txtfileName, 'r', encoding='cp1252')
 outputFile = open(outputFileName, 'w')
@@ -91,7 +82,7 @@ for line in readFile:
             continue
         isYear = re.search('(^[A-z]{2}\.{1}$|^R-[A-z]{2}\.{1}$)', element)
         if isYear:
-            year = get_YearName(element)
+            year = yearNameDicionary[element]
             yearNameSet = True
             continue
         isPosition = re.search('(^[A-Z]{1,3}$|^P\/PK$|^Spec$|^DT\/DE$|^OLB\/DE$)', element)
@@ -102,7 +93,7 @@ for line in readFile:
             positionNameSet = True
             continue
         isName = re.search('[A-z]+', element)
-        if isName:
+        if isName and not lastNameSet:
             if firstNameSet:
                 lastName = element
                 lastNameSet = True

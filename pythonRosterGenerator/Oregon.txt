@@ -1,0 +1,112 @@
+2	Mykael Wright	CB	Fr.	5-11	185	Antelope Valley, Calif. / Antelope Valley HS	
+3	Johnny Johnson III	WR	Jr.	6-0	199	Chandler, Ariz. / Chandler HS	
+4	Thomas Graham Jr.	CB	Jr.	5-11	197	Rancho Cucamonga, Calif. / Rancho Cucamonga HS	
+4	Mycah Pittman	WR	Fr.	5-11	198	Tampa, Fla. / Calabasas HS	
+5	Sean Dollars	RB	Fr.	5-10	204	Rancho Cucamonga, Calif. / Mater Dei HS	
+5	Kayvon Thibodeaux	DE	Fr.	6-5	242	South Central Los Angeles, Calif. / Oaks Christian HS	
+6	Juwan Johnson	WR	Sr.	6-4	231	Glassboro, N.J. / Glassboro HS	Penn State
+6	Deommodore Lenoir	CB	Jr.	5-11	202	Los Angeles, Calif. / Salesian HS	
+7	DJ Johnson	DE	So.	6-5	272	Sacramento, Calif. / Luther Burbank HS	Miami
+7	CJ Verdell	RB	So.	5-9	210	Chula Vista, Calif. / Mater Dei HS	
+8	Jevon Holland	S	So.	6-1	196	Pleasanton, Calif. / Bishop O'Dowd HS	
+10	Justin Herbert	QB	Sr.	6-6	237	Eugene, Ore. / Sheldon HS	
+10	Steve Stephens IV	S	R-Fr.	6-0	195	Fresno, Calif. / Edison HS	
+11	Trikweze Bridges	CB	Fr.	6-3	192	Lanett, Ala. / Lanett HS	
+12	DJ James	CB	Fr.	6-0	178	Mobile, Ala. / Spanish Fort HS	
+12	Tyler Shough	QB	R-Fr.	6-5	219	Chandler, Ariz. / Hamilton HS	
+14	Haki Woods Jr.	CB	Sr.	6-3	200	Chicago, Ill. / South Bend Washington HS (Ind.)	Pima CC
+16	Nick Pickett	S	Jr.	6-1	197	Los Angeles, Calif. / Salesian HS	
+16	Bradley Yaffe	QB	R-Fr.	6-3	214	Atherton, Calif. / Sacred Heart Prep	
+17	Daewood Davis	CB	So.	6-2	184	Hollywood, Fla. / Deerfield Beach HS	
+17	Cale Millen	QB	Fr.	6-3	210	Snoqualmie, Wash. / Mount Si HS	
+18	Spencer Webb	TE	R-Fr.	6-6	246	Sacramento, Calif. / Christian Brothers HS	
+19	Jamal Hill	S	Fr.	6-1	204	Morrow, Ga. / Morrow HS	
+20	Jayvaun Wilson	RB	Fr.	6-2	211	Los Angeles, Calif. / Valencia HS	
+21	Tevin Jeannis	WR	R-Fr.	6-2	180	Scappoose, Ore. / Scappoose HS	
+22	Darrian Felix	RB	So.	5-11	197	Fort Myers, Fla. / Fort Myers HS	
+23	Verone McKinley III	CB	R-Fr.	5-10	192	Carrollton, Texas / Hebron HS	
+23	Jack Vecchi	WR	So.	5-7	166	Portland, Ore. / Central Catholic HS	
+24	Ge'mon Eaford	ILB	Fr.	6-1	240	Deerfield Beach, Fla. / Deerfield Beach HS	
+24	Vincenzo Logan	WR	R-Fr.	6-2	175	Portland, Ore. / Central Catholic HS	
+25	Brady Breeze	S	Jr.	6-0	196	Lake Oswego, Ore. / Central Catholic HS	
+25	Kyle Buckner	WR	Sr.	6-3	190	Eastvale, Calif. / Roosevelt HS	
+26	Travis Dye	RB	So.	5-10	192	Norco, Calif. / Norco HS	
+27	Jacob Breeland	TE	Sr.	6-5	250	Mission Viejo, Calif. / Trabuco Hills HS	
+28	Andrew Johnson Jr.	ILB	R-Fr.	6-2	230	Tifton, Ga. / Tift County HS	
+28	Cross Patton	RB	Fr.	5-6	180	Atlanta, Ga. / Woodward Academy	
+29	Adrian Jackson	OLB	So.	6-2	232	Denver, Colo. / Mullen HS	
+29	Korbin Williams	WR	R-Fr.	6-0	172	Portland, Ore. / Central Catholic HS	
+30	Jaylon Redd	WR	Jr.	5-8	180	Carson, Calif. / Rancho Cucamonga HS	
+31	Sean Killpatrick	S	Sr.	5-11	193	Pearland, Texas / St. Pius X HS	
+32	La'Mar Winston Jr.	OLB	Sr.	6-2	227	Portland, Ore. / Central Catholic HS	
+33	Jordan Adeyemi-John	CB	R-Fr.	6-1	206	Placentia, Calif. / Valencia HS	
+33	Cyrus Habibi-Likio	RB	So.	6-1	222	Palo Alto, Calif. / St. Francis HS	
+34	Jordon Scott	DT	Jr.	6-1	322	Largo, Fla. / Pinellas Park HS	
+35	Troy Dye	ILB	Sr.	6-4	226	Norco, Calif. / Norco HS	
+36	Charles Sudduth	CB	Sr.	5-10	170	Fairbanks, Alaska / West Valley HS	
+37	Henry Katleman	K	R-Fr.	5-10	210	Topanga, Calif. / Malibu HS	
+37	Max Wysocki	S	Fr.	5-11	204	Vienna, Va. / Madison HS	
+38	Lucas Noland	S	R-Fr.	6-0	193	Tualatin, Ore. / Tualatin HS	
+38	Tom Snee	P	So.	6-3	203	Melbourne, Australia / Frankston HS	
+39	MJ Cunningham	ILB	R-Fr.	6-2	233	Portland, Ore. / Madison HS	
+39	KJ Maduike	RB	So.	5-10	212	Santa Clarita, Calif. / Golden Valley HS	
+40	Noah Dahl	RB	Jr.	5-11	199	Silverton, Ore. / Silverton HS	
+41	Isaac Slade-Matautia	ILB	So.	6-1	235	Honolulu, Hawaii / St. Louis School	
+42	Blake Maimone	P	Sr.	6-6	228	Thousand Oaks, Calif. / Oaks Christian HS	
+43	Nick Wiebe	ILB	R-Fr.	6-1	222	Calgary, Alberta / IMG Academy (Fla.)	
+44	Matt Mariota	TE	Sr.	6-2	208	Honolulu, Hawaii / St. Louis School	
+45	Gus Cumberlander	DE	Sr.	6-7	256	Ellenwood, Ga. / Cedar Grove HS	
+46	Nate Heaukulani	ILB	Jr.	6-0	222	Portland, Ore. / Jesuit HS	Arizona Western College
+47	Mase Funa	OLB	Fr.	6-2	260	Anaheim, Calif. / Mater Dei HS	
+47	Peyton Yanagi	LS	R-Fr.	5-9	191	Honolulu, Hawaii / St. Louis School	
+48	Hunter Kampmoyer	TE	Jr.	6-4	251	Bishop, Calif. / Bishop Union HS	
+48	Treven Ma'ae	OLB	Fr.	6-5	235	Kapolei, Hawaii / Bishop Gorman HS	
+49	Camden Lewis	K	Fr.	6-0	203	Charlotte, N.C. / Hough HS	
+49	Tyler Nanney	TE	Fr.	6-7	244	Pleasanton, Calif. / Amador Valley HS	
+50	Popo Aumavae	DT	So.	6-3	313	Stockton, Calf. / St. Mary's HS	
+51	Gary Baker	DT	Sr.	6-3	310	Upland, Calif. / Upland HS	
+52	Andrew Faoliu	DT	R-Fr.	6-3	275	Santa Ana, Calif. / Mater Dei HS	
+53	Matt Christman	OLB	Sr.	6-2	254	Honolulu, Hawaii / Punahou HS	Foothill College
+53	Ryan Walk	OL	So.	6-2	285	Eugene, Ore. / Sheldon HS	
+54	Dru Mathis	ILB	Jr.	6-2	228	Ventura, Calif. / Buena HS	Moorpark College
+54	Calvin Throckmorton	OL	Sr.	6-5	309	Bellevue, Wash. / Newport HS	
+55	Jake Hanson	OL	Sr.	6-5	295	Eureka, Calif. / Eureka HS	
+55	Sampson Niu	ILB	Jr.	6-1	206	San Diego, Calif. / Madison HS	
+56	Bryson Young	OLB	Sr.	6-5	248	Clovis, Calif. / Buchanan HS	
+57	Ben Gomes	ILB	Sr.	5-11	220	Greenbrook, N.J. / Watchung Hills Regional HS	Wagner College
+58	Penei Sewell	OL	So.	6-6	325	Malaeimi, American Samoa / Desert Hills HS (Utah)	
+59	Devin Lewis	OL	R-Fr.	5-11	335	New Orleans, La. / Warren Easton HS	
+63	Karsten Battles	LS	So.	6-1	246	San Antonio, Texas / Claudia Taylor Johnson HS	
+64	Charlie Landgraf	OL	Sr.	6-1	299	Portland, Ore. / Hotchkiss School (Conn.)	
+66	Brady Aiello	OL	Sr.	6-7	311	Lafayette, Calif. / Acalanes HS	
+67	Cole Young	OL	Fr.	6-5	310	Medina, Wash. / Bellevue HS	
+68	Shane Lemieux	OL	Sr.	6-4	316	Yakima, Wash. / West Valley HS	
+70	Dawson Jaramillo	OL	R-Fr.	6-5	311	Portland, Ore. / Lake Oswego HS	
+71	Malaesala Aumavae-Laulu	OL	Jr.	6-6	313	Hilo, Hawaii / Liberty HS	Navarro College
+72	Sam Poutasi	OL	Jr.	6-4	307	Las Vegas, Nev. / Desert Pines HS	
+73	Justin Johnson	OL	R-Fr.	6-7	344	Philadelphia, Pa. / Neumann-Goretti HS	
+74	Steven Jones	OL	So.	6-7	354	Temecula, Calif. / Chaparall HS	
+75	Dallas Warmack	OL	Sr.	6-2	310	Atlanta, Ga. / Mays HS	Alabama
+76	Jonah Tauanu'u	OL	Fr.	6-5	335	Harbor City, Calif. / Narbonne HS	
+77	George Moore	OL	Sr.	6-6	310	Antioch, Calif. / Deer Valley HS	College of San Mateo
+78	Alex Forsyth	OL	So.	6-4	303	West Linn, Ore. / West Linn HS	
+79	Chris Randazzo	OL	R-Fr.	6-6	325	Chino, Calif. / Don Lugo HS	
+80	Bryan Addison	WR	R-Fr.	6-5	190	Gardena, Calif. / Junipero Serra HS	
+81	Patrick Herbert	TE	Fr.	6-5	245	Eugene, Ore. / Sheldon HS	
+82	Justin Collins	WR	Jr.	5-9	187	Los Angeles, Calif. / Carson HS	Long Beach City College / Boise State
+83	Josh Delgado	WR	Fr.	5-11	185	Carson, Calif. / IMG Academy (Fla.)	
+84	Cam McCormick	TE	Jr.	6-5	260	Bend, Ore. / Summit HS	
+85	Isaac Townsend	OLB	Fr.	6-5	255	Arvada, Colo. / Ralston Valley HS	
+85	JR Waters	WR	Fr.	6-3	197	Oxnard, Calif. / Oxnard HS	
+86	Lance Wilhoite	WR	Fr.	6-3	176	Nashville, Tenn. / Franklin Road Academy	
+87	Ryan Bay	TE	Sr.	6-3	237	Tigard, Ore. / Tigard HS	
+88	Isaah Crocker	WR	R-Fr.	6-1	175	Sacramento, Calif. / Inderkum HS	
+90	Drayton Carlberg	DT	Sr.	6-5	282	Minneapolis, Minn. / DeLaSalle HS	
+91	Taylor Koth	K	R-Fr.	6-2	201	Hailey, Idaho / Wood River HS	
+91	Kristian Williams	DT	Fr.	6-3	293	Memphis, Tenn. / Southwind HS	
+92	Miguel Nevarez	DT	R-Fr.	6-4	294	Mountain House, Calif. / Mountain House HS	
+93	Sione Kava	DT	Sr.	6-6	279	Honolulu, Hawaii / Kalani HS	East Los Angeles College
+94	Sua'ava Poti	DT	Fr.	6-2	282	Bellflower, Calif. / St. John Bosco HS	
+95	Keyon Ware-Hudson	DT	Fr.	6-3	294	Duarte, Calif. / Mater Dei HS	
+97	Brandon Dorlus	DT	Fr.	6-3	295	Fort Lauderdale, Fla. / Deerfield Beach HS	
+99	Austin Faoliu	DT	Jr.	6-3	293	Santa Ana, Calif. / Mater Dei HS

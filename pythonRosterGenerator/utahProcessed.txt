@@ -3,7 +3,7 @@ u1d	University of Utah junior defensive back Jaylon Johnson (1)	Jaylon Johnson (
 u2d	University of Utah freshman defensive back Aaron Lowe (2)	Aaron Lowe (2) of the University of Utah Utes
 u2o	University of Utah senior running back Zack Moss (2)	Zack Moss (2) of the University of Utah Utes
 u3o	University of Utah senior wide reciever Demari Simpkins (3)	Demari Simpkins (3) of the University of Utah Utes
-u4o	University of Utah sophomore running back Green Chandler, (4)	Green Chandler, (4) of the University of Utah Utes
+u4o	University of Utah sophomore running back TJ Green (4)	TJ Green (4) of the University of Utah Utes
 u5d	University of Utah senior defensive back Tareke Lewis (5)	Tareke Lewis (5) of the University of Utah Utes
 u5o	University of Utah freshman running back Jordan Wilmore (5)	Jordan Wilmore (5) of the University of Utah Utes
 u6d	University of Utah senior defensive end Bradlee Anae (6)	Bradlee Anae (6) of the University of Utah Utes
@@ -108,7 +108,7 @@ u93s	University of Utah junior long snapper Keegan Markgraf (93)	Keegan Markgraf
 u94d	University of Utah freshman defensive lineman Falcon Kaumatule (94)	Falcon Kaumatule (94) of the University of Utah Utes
 u94d	University of Utah freshman defensive tackle Jake Mitten (94)	Jake Mitten (94) of the University of Utah Utes
 u95d	University of Utah senior defensive end Malik Haynes (95)	Malik Haynes (95) of the University of Utah Utes
-u96INVALID	University of Utah junior INVALID Nels Bountiful (96)	Nels Bountiful (96) of the University of Utah Utes
+u96s	University of Utah junior specialist Nels Haltom (96)	Nels Haltom (96) of the University of Utah Utes
 u97s	University of Utah freshman placekicker Jadon Redding (97)	Jadon Redding (97) of the University of Utah Utes
 u98d	University of Utah junior defensive tackle Viane Moala (98)	Viane Moala (98) of the University of Utah Utes
 u99d	University of Utah senior defensive tackle Leki Fotu (99)	Leki Fotu (99) of the University of Utah Utes

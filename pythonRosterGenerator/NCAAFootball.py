@@ -29,63 +29,35 @@ def get_YearName(_year):
     else:
         return ('INVALID')
 
-def get_PositionNameAndUnit(_position):
-    if _position == 'WR':
-        return ('wide reciever', 'o')
-    elif _position == 'CB':
-        return ('cornerback', 'd')
-    elif _position == 'NB':
-        return ('nickelback', 'd')
-    elif _position == 'DB':
-        return('defensive back', 'd')
-    elif _position == 'S':
-        return ('safety', 'd')
-    elif _position == 'QB':
-        return ('quarterback', 'o')
-    elif _position == 'LB':
-        return ('linebacker', 'd')
-    elif _position == 'ILB':
-        return ('inside linebacker', 'd')
-    elif _position == 'OLB':
-        return ('outside linebacker', 'd')
-    elif _position == 'RB':
-        return ('running back', 'o')
-    elif _position == 'TE':
-        return ('tight end', 'o')
-    elif _position == 'P/PK':
-        return ('punter/placekicker','s')
-    elif _position == 'P':
-        return ('punter', 's')
-    elif _position == 'PK':
-        return ('placekicker', 's')
-    elif _position == 'K':
-        return ('kicker', 's')
-    elif _position == 'LS':
-        return ('long snapper', 's')
-    elif _position == 'DE':
-        return ('defensive end', 'd')
-    elif _position == 'DT':
-        return ('defensive tackle', 'd')
-    elif _position == 'DL':
-        return 'defensive lineman', 'd'
-    elif _position == 'DE/DT':
-        return ('defensive end/defensive tackle', 'd')
-    elif _position == 'OLB/DE':
-        return ('outside linebacker/defensive end', 'd')
-    elif _position == 'OL':
-        return ('offensive lineman', 'o')
-    elif _position == 'G':
-        return ('guard', 'o')
-    elif _position == 'NG':
-        return ('nose guard', 'o')
-    elif _position == 'NT':
-        return ('nose tackle', 'o')
-    elif _position == 'SN':
-        return ('long snapper', 's')
-    elif _position == 'Spec':
-        return ('punter/placekicker','s')
-    else:
-        return ('INVALID', 'INVALID')
+positionAndUnitDictionary = {
+        'WR': ('wide reciever', 'o'),
+        'CB': ('cornerback', 'd'),
+        'NB': ('nickelback', 'd'),
+        'DB': ('defensive back', 'd'),
+        'S': ('safety', 'd'),
+        'QB': ('quarterback', 'o'),
+        'LB': ('linebacker', 'd'),
+        'ILB': ('inside linebacker', 'd'),
+        'OLB': ('outside linebacker', 'd'),
+        'RB': ('running back', 'o'),
+        'TE': ('tight end', 'o'),
+        'P/PK': ('punter/placekicker','s'),
+        'P': ('punter', 's'),
+        'PK': ('placekicker', 's'),
+        'K': ('kicker', 's'),
+        'LS': ('long snapper', 's'),
+        'DE': ('defensive end', 'd'),
+        'DT': ('defensive tackle', 'd'),
+        'DL': ('defensive lineman', 'd'),
+        'DE/DT': ('defensive end/defensive tackle', 'd'),
+        'OLB/DE': ('outside linebacker/defensive end', 'd'),
+        'OL': ('offensive lineman', 'o'),
+        'G': ('guard', 'o'),
+        'NG': ('nose guard', 'o'),
+        'NT': ('nose tackle', 'o'),
+        'SN': ('long snapper', 's'),
+        'Spec': ('specialist','s')
+    }
 
 schoolName = "University of Utah"
 teamCharacter = 'u'
@@ -122,9 +94,9 @@ for line in readFile:
             year = get_YearName(element)
             yearNameSet = True
             continue
-        isPosition = re.search('(^[A-Z]{1,3}$)', element)
-        if isPosition:
-            positionAndUnit = get_PositionNameAndUnit(element)
+        isPosition = re.search('(^[A-Z]{1,3}$|^P\/PK$|^Spec$|^DT\/DE$|^OLB\/DE$)', element)
+        if isPosition and element in positionAndUnitDictionary:
+            positionAndUnit = positionAndUnitDictionary[element]
             position = positionAndUnit[0]
             unit = positionAndUnit[1]
             positionNameSet = True

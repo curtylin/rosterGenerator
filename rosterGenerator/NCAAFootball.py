@@ -90,11 +90,11 @@ suffixes = {
     'VI': 'VI'
 }
 
-schoolName = "University of Oregon"
-teamCharacter = 'o'
-teamMascot = "ducks"
+schoolName = "University of Washington"
+teamCharacter = 'w'
+teamMascot = "Huskies"
 
-txtfileName = "Oregon"
+txtfileName = "Washington"
 outputFileName = txtfileName + "Processed.txt"
 
 readFile = open(txtfileName + ".txt", 'r', encoding='cp1252')

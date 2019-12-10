@@ -1,0 +1,105 @@
+w1o	University of Washington junior tight end Hunter BryantIssaquah (1)	Hunter BryantIssaquah (1) of the University of Washington Huskies
+w2o	University of Washington senior wide receiver Aaron FullerMcKinney (2)	Aaron FullerMcKinney (2) of the University of Washington Huskies
+w3d	University of Washington junior defensive back Elijah MoldenLinn (3)	Elijah MoldenLinn (3) of the University of Washington Huskies
+w4o	University of Washington sophomore wide receiver Terrell BynumBeach (4)	Terrell BynumBeach (4) of the University of Washington Huskies
+w5o	University of Washington senior wide receiver Andre BaccelliaOaks (5)	Andre BaccelliaOaks (5) of the University of Washington Huskies
+w5d	University of Washington senior defensive back Myles BryantPasadena (5)	Myles BryantPasadena (5) of the University of Washington Huskies
+w6o	University of Washington senior wide receiver Chico McClatcherWay (6)	Chico McClatcherWay (6) of the University of Washington Huskies
+w8d	University of Washington senior defensive lineman Benning Potoa'eDuPont (8)	Benning Potoa'eDuPont (8) of the University of Washington Huskies
+w8o	University of Washington redshirt freshman wide receiver Marquis SpikerWildomar (8)	Marquis SpikerWildomar (8) of the University of Washington Huskies
+w9d	University of Washington sophomore outside linebacker Joe TryonRenton (9)	Joe TryonRenton (9) of the University of Washington Huskies
+w10d	University of Washington freshman linebacker Miki AhLaie (10)	Miki AhLaie (10) of the University of Washington Huskies
+w10o	University of Washington junior quarterback Jacob EasonStevens (10)	Jacob EasonStevens (10) of the University of Washington Huskies
+w11d	University of Washington sophomore defensive back Alex CookSacramento (11)	Alex CookSacramento (11) of the University of Washington Huskies
+w11o	University of Washington redshirt freshman quarterback Jacob SirmonBothell (11)	Jacob SirmonBothell (11) of the University of Washington Huskies
+w13d	University of Washington senior linebacker Brandon WellingtonKent (13)	Brandon WellingtonKent (13) of the University of Washington Huskies
+w14d	University of Washington freshman linebacker Josh CalvertPark (14)	Josh CalvertPark (14) of the University of Washington Huskies
+w14o	University of Washington junior quarterback Blake GregorySammamish (14)	Blake GregorySammamish (14) of the University of Washington Huskies
+w15d	University of Washington freshman linebacker Daniel HeimuliAlto (15)	Daniel HeimuliAlto (15) of the University of Washington Huskies
+w15o	University of Washington freshman wide receiver Puka NacuaProvo (15)	Puka NacuaProvo (15) of the University of Washington Huskies
+w16o	University of Washington freshman quarterback Dylan MorrisPuyallup (16)	Dylan MorrisPuyallup (16) of the University of Washington Huskies
+w16d	University of Washington freshman defensive back Cameron WilliamsBakersfield (16)	Cameron WilliamsBakersfield (16) of the University of Washington Huskies
+w17o	University of Washington freshman wide receiver Taj DavisChino (17)	Taj DavisChino (17) of the University of Washington Huskies
+w18d	University of Washington junior defensive back Isaiah GilchristBellevue (18)	Isaiah GilchristBellevue (18) of the University of Washington Huskies
+w18o	University of Washington redshirt freshman wide receiver Austin OsborneMargarita (18)	Austin OsborneMargarita (18) of the University of Washington Huskies
+w19d	University of Washington redshirt freshman defensive back Kyler GordonMukilteo (19)	Kyler GordonMukilteo (19) of the University of Washington Huskies
+w20o	University of Washington junior wide receiver Ty JonesProvo (20)	Ty JonesProvo (20) of the University of Washington Huskies
+w20d	University of Washington freshman defensive back Asa TurnerCarlsbad (20)	Asa TurnerCarlsbad (20) of the University of Washington Huskies
+w21d	University of Washington redshirt freshman defensive back Dominique HamptonGlendale (21)	Dominique HamptonGlendale (21) of the University of Washington Huskies
+w21o	University of Washington senior wide receiver Quinten PoundsCypress (21)	Quinten PoundsCypress (21) of the University of Washington Huskies
+w22	University of Washington   Cameron DavisCucamonga (22)	Cameron DavisCucamonga (22) of the University of Washington Huskies
+w22d	University of Washington freshman defensive back Trent McDuffieWestminster (22)	Trent McDuffieWestminster (22) of the University of Washington Huskies
+w23d	University of Washington junior defensive back Brandon McKinneyOrange (23)	Brandon McKinneyOrange (23) of the University of Washington Huskies
+w24	University of Washington   Kamari PleasantRialto Jr. (24)	Kamari PleasantRialto Jr. (24) of the University of Washington Huskies
+w25	University of Washington   Sean McGrewTorrance Jr. (25)	Sean McGrewTorrance Jr. (25) of the University of Washington Huskies
+w26	University of Washington   Salvon AhmedKirkland Jr. (26)	Salvon AhmedKirkland Jr. (26) of the University of Washington Huskies
+w27d	University of Washington junior defensive back Keith TaylorBeach (27)	Keith TaylorBeach (27) of the University of Washington Huskies
+w28d	University of Washington freshman linebacker Ruperake FuavaiAuburn (28)	Ruperake FuavaiAuburn (28) of the University of Washington Huskies
+w28	University of Washington   Richard NewtonLancaster (28)	Richard NewtonLancaster (28) of the University of Washington Huskies
+w29d	University of Washington redshirt freshman defensive back Julius IrvinAnaheim (29)	Julius IrvinAnaheim (29) of the University of Washington Huskies
+w30d	University of Washington senior linebacker Kyler ManuPocatello (30)	Kyler ManuPocatello (30) of the University of Washington Huskies
+w30o	University of Washington redshirt freshman wide receiver David PritchardRenton (30)	David PritchardRenton (30) of the University of Washington Huskies
+w31d	University of Washington freshman defensive back Kamren FabiculananCamarillo (31)	Kamren FabiculananCamarillo (31) of the University of Washington Huskies
+w32s	University of Washington senior punter Joel WhitfordSouth (32)	Joel WhitfordSouth (32) of the University of Washington Huskies
+w34d	University of Washington freshman defensive back Mishael PowellSeattle (34)	Mishael PowellSeattle (34) of the University of Washington Huskies
+w35d	University of Washington redshirt freshman linebacker Ben HinesSnohomish (35)	Ben HinesSnohomish (35) of the University of Washington Huskies
+w36	University of Washington   Malik BraxtonLynnwood Sr. (36)	Malik BraxtonLynnwood Sr. (36) of the University of Washington Huskies
+w36d	University of Washington senior defensive back Dustin BushDiego (36)	Dustin BushDiego (36) of the University of Washington Huskies
+w37s	University of Washington freshman placekicker Tim HornHonolulu (37)	Tim HornHonolulu (37) of the University of Washington Huskies
+w37o	University of Washington redshirt freshman tight end Jack WestoverBellevue (37)	Jack WestoverBellevue (37) of the University of Washington Huskies
+w38d	University of Washington sophomore defensive back Zechariah BrownSeattle (38)	Zechariah BrownSeattle (38) of the University of Washington Huskies
+w38	University of Washington   Camden VerStrateCheney (38)	Camden VerStrateCheney (38) of the University of Washington Huskies
+w39d	University of Washington freshman defensive back Nick JuranView (39)	Nick JuranView (39) of the University of Washington Huskies
+w39o	University of Washington freshman tight end Zeke PelluerKirkland (39)	Zeke PelluerKirkland (39) of the University of Washington Huskies
+w40d	University of Washington freshman linebacker Alphonzo TuputalaWay (40)	Alphonzo TuputalaWay (40) of the University of Washington Huskies
+w41d	University of Washington junior outside linebacker Myles RiceHouston (41)	Myles RiceHouston (41) of the University of Washington Huskies
+w42o	University of Washington freshman tight end Carson SmithClarita (42)	Carson SmithClarita (42) of the University of Washington Huskies
+w42	University of Washington   Van SoderbergOlympia Jr. (42)	Van SoderbergOlympia Jr. (42) of the University of Washington Huskies
+w43d	University of Washington redshirt freshman linebacker Jackson SirmonBrentwood (43)	Jackson SirmonBrentwood (43) of the University of Washington Huskies
+w45d	University of Washington freshman outside linebacker Bralen TricePhoenix (45)	Bralen TricePhoenix (45) of the University of Washington Huskies
+w46s	University of Washington junior punter Race PorterSeattle (46)	Race PorterSeattle (46) of the University of Washington Huskies
+w47s	University of Washington sophomore placekicker Peyton HenryDanville (47)	Peyton HenryDanville (47) of the University of Washington Huskies
+w47o	University of Washington sophomore tight end Corey LucianoDanville (47)	Corey LucianoDanville (47) of the University of Washington Huskies
+w48d	University of Washington redshirt freshman linebacker Edefuan UlofoshioAnchorage (48)	Edefuan UlofoshioAnchorage (48) of the University of Washington Huskies
+w49s	University of Washington senior long snapper A.J. CartyAna (49)	A.J. CartyAna (49) of the University of Washington Huskies
+w50d	University of Washington freshman defensive lineman Sama PaamaWaipahu (50)	Sama PaamaWaipahu (50) of the University of Washington Huskies
+w51o	University of Washington sophomore offensive lineman Jaxson KirklandPortland (51)	Jaxson KirklandPortland (51) of the University of Washington Huskies
+w52d	University of Washington sophomore outside linebacker Ariel NgataReno (52)	Ariel NgataReno (52) of the University of Washington Huskies
+w53d	University of Washington redshirt freshman linebacker MJ TafisiJordan (53)	MJ TafisiJordan (53) of the University of Washington Huskies
+w54d	University of Washington freshman linebacker Drew FowlerBellevue (54)	Drew FowlerBellevue (54) of the University of Washington Huskies
+w55d	University of Washington junior outside linebacker Ryan BowmanBellevue (55)	Ryan BowmanBellevue (55) of the University of Washington Huskies
+w55o	University of Washington freshman offensive lineman Troy FautanuHenderson (55)	Troy FautanuHenderson (55) of the University of Washington Huskies
+w56o	University of Washington senior offensive lineman Nick HarrisInglewood (56)	Nick HarrisInglewood (56) of the University of Washington Huskies
+w56d	University of Washington freshman outside linebacker Laiatu LatuSacramento (56)	Laiatu LatuSacramento (56) of the University of Washington Huskies
+w57d	University of Washington senior defensive lineman John ClarkMarysville (57)	John ClarkMarysville (57) of the University of Washington Huskies
+w58d	University of Washington redshirt freshman outside linebacker Zion Tupuola-FetuiCity (58)	Zion Tupuola-FetuiCity (58) of the University of Washington Huskies
+w59d	University of Washington redshirt freshman defensive lineman Draco BynumWilsonville (59)	Draco BynumWilsonville (59) of the University of Washington Huskies
+w59o	University of Washington senior offensive lineman Henry RobertsBellevue (59)	Henry RobertsBellevue (59) of the University of Washington Huskies
+w62o	University of Washington redshirt freshman offensive lineman Noah HellyerVancouver (62)	Noah HellyerVancouver (62) of the University of Washington Huskies
+w63o	University of Washington sophomore offensive lineman Cole NorgaardClements (63)	Cole NorgaardClements (63) of the University of Washington Huskies
+w66o	University of Washington sophomore offensive lineman Henry BainivaluSammamish (66)	Henry BainivaluSammamish (66) of the University of Washington Huskies
+w67o	University of Washington sophomore offensive lineman Chase SkuzaSumner (67)	Chase SkuzaSumner (67) of the University of Washington Huskies
+w68o	University of Washington redshirt freshman offensive lineman M.J. AleTacoma (68)	M.J. AleTacoma (68) of the University of Washington Huskies
+w69o	University of Washington redshirt freshman offensive lineman Will PliskaKirkland (69)	Will PliskaKirkland (69) of the University of Washington Huskies
+w70o	University of Washington senior offensive lineman Jared HilbersBeaverton (70)	Jared HilbersBeaverton (70) of the University of Washington Huskies
+w71o	University of Washington freshman offensive lineman Nate KalepoRenton (71)	Nate KalepoRenton (71) of the University of Washington Huskies
+w72o	University of Washington senior offensive lineman Trey AdamsWenatchee (72)	Trey AdamsWenatchee (72) of the University of Washington Huskies
+w73o	University of Washington redshirt freshman offensive lineman Gage HartyValley (73)	Gage HartyValley (73) of the University of Washington Huskies
+w76o	University of Washington junior offensive lineman Luke WattenbergCanyon (76)	Luke WattenbergCanyon (76) of the University of Washington Huskies
+w77o	University of Washington freshman offensive lineman Julius BuelowKapolei (77)	Julius BuelowKapolei (77) of the University of Washington Huskies
+w78s	University of Washington junior long snapper Luke LaneBelleuve (78)	Luke LaneBelleuve (78) of the University of Washington Huskies
+w78o	University of Washington redshirt freshman offensive lineman Matteo MeleTucson (78)	Matteo MeleTucson (78) of the University of Washington Huskies
+w79o	University of Washington redshirt freshman offensive lineman Victor CurneHouston (79)	Victor CurneHouston (79) of the University of Washington Huskies
+w82o	University of Washington junior wide receiver Jordan ChinFernando (82)	Jordan ChinFernando (82) of the University of Washington Huskies
+w83o	University of Washington redshirt freshman tight end Devin CulpSpokane (83)	Devin CulpSpokane (83) of the University of Washington Huskies
+w85o	University of Washington junior wide receiver Fatu Sua-GodinetHonolulu (85)	Fatu Sua-GodinetHonolulu (85) of the University of Washington Huskies
+w86o	University of Washington junior tight end Jacob KizerSalem (86)	Jacob KizerSalem (86) of the University of Washington Huskies
+w87o	University of Washington sophomore tight end Cade OttonTumwater (87)	Cade OttonTumwater (87) of the University of Washington Huskies
+w90d	University of Washington senior defensive lineman Josiah BronsonKent (90)	Josiah BronsonKent (90) of the University of Washington Huskies
+w91d	University of Washington redshirt freshman defensive lineman Tuli LetuligasenoaConcord (91)	Tuli LetuligasenoaConcord (91) of the University of Washington Huskies
+w92d	University of Washington freshman defensive lineman Noa NgaluAlto (92)	Noa NgaluAlto (92) of the University of Washington Huskies
+w93d	University of Washington freshman outside linebacker Hunter HansenBellevue (93)	Hunter HansenBellevue (93) of the University of Washington Huskies
+w94d	University of Washington redshirt freshman defensive lineman Sam TaimaniCity (94)	Sam TaimaniCity (94) of the University of Washington Huskies
+w95d	University of Washington junior defensive lineman Levi OnwuzurikeAllen (95)	Levi OnwuzurikeAllen (95) of the University of Washington Huskies
+w96d	University of Washington freshman defensive lineman Jacob BandesPittsburg (96)	Jacob BandesPittsburg (96) of the University of Washington Huskies
+w99d	University of Washington freshman defensive lineman Faatui TuiteleHonolulu (99)	Faatui TuiteleHonolulu (99) of the University of Washington Huskies

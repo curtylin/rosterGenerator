@@ -1,112 +1,112 @@
-o2d	Oregon State University freshman cornerback Mykael Wright (2)	Mykael Wright (2) of the Oregon State University Beavers
-o3o	Oregon State University junior wide receiver Johnny Johnson III (3)	Johnny Johnson III (3) of the Oregon State University Beavers
-o4d	Oregon State University junior cornerback Thomas Graham (4)	Thomas Graham (4) of the Oregon State University Beavers
-o4o	Oregon State University freshman wide receiver Mycah Pittman (4)	Mycah Pittman (4) of the Oregon State University Beavers
-o5o	Oregon State University freshman running back Sean Dollars (5)	Sean Dollars (5) of the Oregon State University Beavers
-o5d	Oregon State University freshman defensive end Kayvon Thibodeaux (5)	Kayvon Thibodeaux (5) of the Oregon State University Beavers
-o6o	Oregon State University senior wide receiver Juwan Johnson (6)	Juwan Johnson (6) of the Oregon State University Beavers
-o6d	Oregon State University junior cornerback Deommodore Lenoir (6)	Deommodore Lenoir (6) of the Oregon State University Beavers
-o7d	Oregon State University sophomore defensive end DJ Johnson (7)	DJ Johnson (7) of the Oregon State University Beavers
-o7o	Oregon State University sophomore running back CJ Verdell (7)	CJ Verdell (7) of the Oregon State University Beavers
-o8d	Oregon State University sophomore safety Jevon Holland (8)	Jevon Holland (8) of the Oregon State University Beavers
-o10o	Oregon State University senior quarterback Justin Herbert (10)	Justin Herbert (10) of the Oregon State University Beavers
-o10d	Oregon State University redshirt freshman safety Steve Stephens IV (10)	Steve Stephens IV (10) of the Oregon State University Beavers
-o11d	Oregon State University freshman cornerback Trikweze Bridges (11)	Trikweze Bridges (11) of the Oregon State University Beavers
-o12d	Oregon State University freshman cornerback DJ James (12)	DJ James (12) of the Oregon State University Beavers
-o12o	Oregon State University redshirt freshman quarterback Tyler Shough (12)	Tyler Shough (12) of the Oregon State University Beavers
-o14d	Oregon State University junior cornerback Haki Woods (14)	Haki Woods (14) of the Oregon State University Beavers
-o16d	Oregon State University junior safety Nick Pickett (16)	Nick Pickett (16) of the Oregon State University Beavers
-o16o	Oregon State University redshirt freshman quarterback Bradley Yaffe (16)	Bradley Yaffe (16) of the Oregon State University Beavers
-o17d	Oregon State University sophomore cornerback Daewood Davis (17)	Daewood Davis (17) of the Oregon State University Beavers
-o17o	Oregon State University freshman quarterback Cale Millen (17)	Cale Millen (17) of the Oregon State University Beavers
-o18o	Oregon State University redshirt freshman tight end Spencer Webb (18)	Spencer Webb (18) of the Oregon State University Beavers
-o19d	Oregon State University freshman safety Jamal Hill (19)	Jamal Hill (19) of the Oregon State University Beavers
-o20o	Oregon State University freshman running back Jayvaun Wilson (20)	Jayvaun Wilson (20) of the Oregon State University Beavers
-o21o	Oregon State University redshirt freshman wide receiver Tevin Jeannis (21)	Tevin Jeannis (21) of the Oregon State University Beavers
-o22o	Oregon State University sophomore running back Darrian Felix (22)	Darrian Felix (22) of the Oregon State University Beavers
-o23d	Oregon State University redshirt freshman cornerback Verone McKinley III (23)	Verone McKinley III (23) of the Oregon State University Beavers
-o23o	Oregon State University sophomore wide receiver Jack Vecchi (23)	Jack Vecchi (23) of the Oregon State University Beavers
-o24d	Oregon State University freshman inside linebacker Ge'mon Eaford (24)	Ge'mon Eaford (24) of the Oregon State University Beavers
-o24o	Oregon State University redshirt freshman wide receiver Vincenzo Logan (24)	Vincenzo Logan (24) of the Oregon State University Beavers
-o25d	Oregon State University junior safety Brady Breeze (25)	Brady Breeze (25) of the Oregon State University Beavers
-o25o	Oregon State University senior wide receiver Kyle Buckner (25)	Kyle Buckner (25) of the Oregon State University Beavers
-o26o	Oregon State University sophomore running back Travis Dye (26)	Travis Dye (26) of the Oregon State University Beavers
-o27o	Oregon State University senior tight end Jacob Breeland (27)	Jacob Breeland (27) of the Oregon State University Beavers
-o28d	Oregon State University junior inside linebacker Andrew Johnson (28)	Andrew Johnson (28) of the Oregon State University Beavers
-o28o	Oregon State University freshman running back Cross Patton (28)	Cross Patton (28) of the Oregon State University Beavers
-o29d	Oregon State University sophomore outside linebacker Adrian Jackson (29)	Adrian Jackson (29) of the Oregon State University Beavers
-o29o	Oregon State University redshirt freshman wide receiver Korbin Williams (29)	Korbin Williams (29) of the Oregon State University Beavers
-o30o	Oregon State University junior wide receiver Jaylon Redd (30)	Jaylon Redd (30) of the Oregon State University Beavers
-o31d	Oregon State University senior safety Sean Killpatrick (31)	Sean Killpatrick (31) of the Oregon State University Beavers
-o32d	Oregon State University junior outside linebacker La'Mar Winston (32)	La'Mar Winston (32) of the Oregon State University Beavers
-o33d	Oregon State University redshirt freshman cornerback Jordan Adeyemi-John (33)	Jordan Adeyemi-John (33) of the Oregon State University Beavers
-o33o	Oregon State University sophomore running back Cyrus Habibi-Likio (33)	Cyrus Habibi-Likio (33) of the Oregon State University Beavers
-o34d	Oregon State University junior defensive tackle Jordon Scott (34)	Jordon Scott (34) of the Oregon State University Beavers
-o35d	Oregon State University senior inside linebacker Troy Dye (35)	Troy Dye (35) of the Oregon State University Beavers
-o36d	Oregon State University senior cornerback Charles Sudduth (36)	Charles Sudduth (36) of the Oregon State University Beavers
-o37s	Oregon State University redshirt freshman kicker Henry Katleman (37)	Henry Katleman (37) of the Oregon State University Beavers
-o37d	Oregon State University freshman safety Max Wysocki (37)	Max Wysocki (37) of the Oregon State University Beavers
-o38d	Oregon State University redshirt freshman safety Lucas Noland (38)	Lucas Noland (38) of the Oregon State University Beavers
-o38s	Oregon State University sophomore punter Tom Snee (38)	Tom Snee (38) of the Oregon State University Beavers
-o39d	Oregon State University redshirt freshman inside linebacker MJ Cunningham (39)	MJ Cunningham (39) of the Oregon State University Beavers
-o39o	Oregon State University sophomore running back KJ Maduike (39)	KJ Maduike (39) of the Oregon State University Beavers
-o40o	Oregon State University junior running back Noah Dahl (40)	Noah Dahl (40) of the Oregon State University Beavers
-o41d	Oregon State University sophomore inside linebacker Isaac Slade-Matautia (41)	Isaac Slade-Matautia (41) of the Oregon State University Beavers
-o42s	Oregon State University senior punter Blake Maimone (42)	Blake Maimone (42) of the Oregon State University Beavers
-o43d	Oregon State University redshirt freshman inside linebacker Nick Wiebe (43)	Nick Wiebe (43) of the Oregon State University Beavers
-o44o	Oregon State University senior tight end Matt Mariota (44)	Matt Mariota (44) of the Oregon State University Beavers
-o45d	Oregon State University senior defensive end Gus Cumberlander (45)	Gus Cumberlander (45) of the Oregon State University Beavers
-o46d	Oregon State University junior inside linebacker Nate Heaukulani (46)	Nate Heaukulani (46) of the Oregon State University Beavers
-o47d	Oregon State University freshman outside linebacker Mase Funa (47)	Mase Funa (47) of the Oregon State University Beavers
-o47s	Oregon State University redshirt freshman long snapper Peyton Yanagi (47)	Peyton Yanagi (47) of the Oregon State University Beavers
-o48o	Oregon State University junior tight end Hunter Kampmoyer (48)	Hunter Kampmoyer (48) of the Oregon State University Beavers
-o48d	Oregon State University freshman outside linebacker Treven Ma'ae (48)	Treven Ma'ae (48) of the Oregon State University Beavers
-o49s	Oregon State University freshman kicker Camden Lewis (49)	Camden Lewis (49) of the Oregon State University Beavers
-o49o	Oregon State University freshman tight end Tyler Nanney (49)	Tyler Nanney (49) of the Oregon State University Beavers
-o50d	Oregon State University sophomore defensive tackle Popo Aumavae (50)	Popo Aumavae (50) of the Oregon State University Beavers
-o51d	Oregon State University senior defensive tackle Gary Baker (51)	Gary Baker (51) of the Oregon State University Beavers
-o52d	Oregon State University redshirt freshman defensive tackle Andrew Faoliu (52)	Andrew Faoliu (52) of the Oregon State University Beavers
-o53d	Oregon State University senior outside linebacker Matt Christman (53)	Matt Christman (53) of the Oregon State University Beavers
-o53o	Oregon State University sophomore offensive lineman Ryan Walk (53)	Ryan Walk (53) of the Oregon State University Beavers
-o54d	Oregon State University junior inside linebacker Dru Mathis (54)	Dru Mathis (54) of the Oregon State University Beavers
-o54o	Oregon State University senior offensive lineman Calvin Throckmorton (54)	Calvin Throckmorton (54) of the Oregon State University Beavers
-o55o	Oregon State University senior offensive lineman Jake Hanson (55)	Jake Hanson (55) of the Oregon State University Beavers
-o55d	Oregon State University junior inside linebacker Sampson Niu (55)	Sampson Niu (55) of the Oregon State University Beavers
-o56d	Oregon State University senior outside linebacker Bryson Young (56)	Bryson Young (56) of the Oregon State University Beavers
-o57d	Oregon State University senior inside linebacker Ben Gomes (57)	Ben Gomes (57) of the Oregon State University Beavers
-o58o	Oregon State University sophomore offensive lineman Penei Sewell (58)	Penei Sewell (58) of the Oregon State University Beavers
-o59o	Oregon State University redshirt freshman offensive lineman Devin Lewis (59)	Devin Lewis (59) of the Oregon State University Beavers
-o63s	Oregon State University sophomore long snapper Karsten Battles (63)	Karsten Battles (63) of the Oregon State University Beavers
-o64o	Oregon State University senior offensive lineman Charlie Landgraf (64)	Charlie Landgraf (64) of the Oregon State University Beavers
-o66o	Oregon State University senior offensive lineman Brady Aiello (66)	Brady Aiello (66) of the Oregon State University Beavers
-o67o	Oregon State University freshman offensive lineman Cole Young (67)	Cole Young (67) of the Oregon State University Beavers
-o68o	Oregon State University senior offensive lineman Shane Lemieux (68)	Shane Lemieux (68) of the Oregon State University Beavers
-o70o	Oregon State University redshirt freshman offensive lineman Dawson Jaramillo (70)	Dawson Jaramillo (70) of the Oregon State University Beavers
-o71o	Oregon State University junior offensive lineman Malaesala Aumavae-Laulu (71)	Malaesala Aumavae-Laulu (71) of the Oregon State University Beavers
-o72o	Oregon State University junior offensive lineman Sam Poutasi (72)	Sam Poutasi (72) of the Oregon State University Beavers
-o73o	Oregon State University redshirt freshman offensive lineman Justin Johnson (73)	Justin Johnson (73) of the Oregon State University Beavers
-o74o	Oregon State University sophomore offensive lineman Steven Jones (74)	Steven Jones (74) of the Oregon State University Beavers
-o75o	Oregon State University senior offensive lineman Dallas Warmack (75)	Dallas Warmack (75) of the Oregon State University Beavers
-o76o	Oregon State University freshman offensive lineman Jonah Tauanu'u (76)	Jonah Tauanu'u (76) of the Oregon State University Beavers
-o77o	Oregon State University senior offensive lineman George Moore (77)	George Moore (77) of the Oregon State University Beavers
-o78o	Oregon State University sophomore offensive lineman Alex Forsyth (78)	Alex Forsyth (78) of the Oregon State University Beavers
-o79o	Oregon State University redshirt freshman offensive lineman Chris Randazzo (79)	Chris Randazzo (79) of the Oregon State University Beavers
-o80o	Oregon State University redshirt freshman wide receiver Bryan Addison (80)	Bryan Addison (80) of the Oregon State University Beavers
-o81o	Oregon State University freshman tight end Patrick Herbert (81)	Patrick Herbert (81) of the Oregon State University Beavers
-o82o	Oregon State University junior wide receiver Justin Collins (82)	Justin Collins (82) of the Oregon State University Beavers
-o83o	Oregon State University freshman wide receiver Josh Delgado (83)	Josh Delgado (83) of the Oregon State University Beavers
-o84o	Oregon State University junior tight end Cam McCormick (84)	Cam McCormick (84) of the Oregon State University Beavers
-o85d	Oregon State University freshman outside linebacker Isaac Townsend (85)	Isaac Townsend (85) of the Oregon State University Beavers
-o85o	Oregon State University freshman wide receiver Waters Oxnard, (85)	Waters Oxnard, (85) of the Oregon State University Beavers
-o86o	Oregon State University freshman wide receiver Lance Wilhoite (86)	Lance Wilhoite (86) of the Oregon State University Beavers
-o87o	Oregon State University senior tight end Ryan Bay (87)	Ryan Bay (87) of the Oregon State University Beavers
-o88o	Oregon State University redshirt freshman wide receiver Isaah Crocker (88)	Isaah Crocker (88) of the Oregon State University Beavers
-o90d	Oregon State University senior defensive tackle Drayton Carlberg (90)	Drayton Carlberg (90) of the Oregon State University Beavers
-o91s	Oregon State University redshirt freshman kicker Taylor Koth (91)	Taylor Koth (91) of the Oregon State University Beavers
-o91d	Oregon State University freshman defensive tackle Kristian Williams (91)	Kristian Williams (91) of the Oregon State University Beavers
-o92d	Oregon State University redshirt freshman defensive tackle Miguel Nevarez (92)	Miguel Nevarez (92) of the Oregon State University Beavers
-o93d	Oregon State University senior defensive tackle Sione Kava (93)	Sione Kava (93) of the Oregon State University Beavers
-o94d	Oregon State University freshman defensive tackle Sua'ava Poti (94)	Sua'ava Poti (94) of the Oregon State University Beavers
-o95d	Oregon State University freshman defensive tackle Keyon Ware-Hudson (95)	Keyon Ware-Hudson (95) of the Oregon State University Beavers
-o97d	Oregon State University freshman defensive tackle Brandon Dorlus (97)	Brandon Dorlus (97) of the Oregon State University Beavers
-o99d	Oregon State University junior defensive tackle Austin Faoliu (99)	Austin Faoliu (99) of the Oregon State University Beavers
+o2d	University of Oregon freshman cornerback Mykael Wright (2)	Mykael Wright (2) of the University of Oregon ducks
+o3o	University of Oregon junior wide receiver Johnny Johnson III (3)	Johnny Johnson III (3) of the University of Oregon ducks
+o4d	University of Oregon junior cornerback Thomas Graham Jr. (4)	Thomas Graham Jr. (4) of the University of Oregon ducks
+o4o	University of Oregon freshman wide receiver Mycah Pittman (4)	Mycah Pittman (4) of the University of Oregon ducks
+o5o	University of Oregon freshman running back Sean Dollars (5)	Sean Dollars (5) of the University of Oregon ducks
+o5d	University of Oregon freshman defensive end Kayvon Thibodeaux (5)	Kayvon Thibodeaux (5) of the University of Oregon ducks
+o6o	University of Oregon senior wide receiver Juwan Johnson (6)	Juwan Johnson (6) of the University of Oregon ducks
+o6d	University of Oregon junior cornerback Deommodore Lenoir (6)	Deommodore Lenoir (6) of the University of Oregon ducks
+o7d	University of Oregon sophomore defensive end DJ Johnson (7)	DJ Johnson (7) of the University of Oregon ducks
+o7o	University of Oregon sophomore running back CJ Verdell (7)	CJ Verdell (7) of the University of Oregon ducks
+o8d	University of Oregon sophomore safety Jevon Holland (8)	Jevon Holland (8) of the University of Oregon ducks
+o10o	University of Oregon senior quarterback Justin Herbert (10)	Justin Herbert (10) of the University of Oregon ducks
+o10d	University of Oregon redshirt freshman safety Steve Stephens IV (10)	Steve Stephens IV (10) of the University of Oregon ducks
+o11d	University of Oregon freshman cornerback Trikweze Bridges (11)	Trikweze Bridges (11) of the University of Oregon ducks
+o12d	University of Oregon freshman cornerback DJ James (12)	DJ James (12) of the University of Oregon ducks
+o12o	University of Oregon redshirt freshman quarterback Tyler Shough (12)	Tyler Shough (12) of the University of Oregon ducks
+o14d	University of Oregon senior cornerback Haki Woods Jr. (14)	Haki Woods Jr. (14) of the University of Oregon ducks
+o16d	University of Oregon junior safety Nick Pickett (16)	Nick Pickett (16) of the University of Oregon ducks
+o16o	University of Oregon redshirt freshman quarterback Bradley Yaffe (16)	Bradley Yaffe (16) of the University of Oregon ducks
+o17d	University of Oregon sophomore cornerback Daewood Davis (17)	Daewood Davis (17) of the University of Oregon ducks
+o17o	University of Oregon freshman quarterback Cale Millen (17)	Cale Millen (17) of the University of Oregon ducks
+o18o	University of Oregon redshirt freshman tight end Spencer Webb (18)	Spencer Webb (18) of the University of Oregon ducks
+o19d	University of Oregon freshman safety Jamal Hill (19)	Jamal Hill (19) of the University of Oregon ducks
+o20o	University of Oregon freshman running back Jayvaun Wilson (20)	Jayvaun Wilson (20) of the University of Oregon ducks
+o21o	University of Oregon redshirt freshman wide receiver Tevin Jeannis (21)	Tevin Jeannis (21) of the University of Oregon ducks
+o22o	University of Oregon sophomore running back Darrian Felix (22)	Darrian Felix (22) of the University of Oregon ducks
+o23d	University of Oregon redshirt freshman cornerback Verone McKinley III (23)	Verone McKinley III (23) of the University of Oregon ducks
+o23o	University of Oregon sophomore wide receiver Jack Vecchi (23)	Jack Vecchi (23) of the University of Oregon ducks
+o24d	University of Oregon freshman inside linebacker Ge'mon Eaford (24)	Ge'mon Eaford (24) of the University of Oregon ducks
+o24o	University of Oregon redshirt freshman wide receiver Vincenzo Logan (24)	Vincenzo Logan (24) of the University of Oregon ducks
+o25d	University of Oregon junior safety Brady Breeze (25)	Brady Breeze (25) of the University of Oregon ducks
+o25o	University of Oregon senior wide receiver Kyle Buckner (25)	Kyle Buckner (25) of the University of Oregon ducks
+o26o	University of Oregon sophomore running back Travis Dye (26)	Travis Dye (26) of the University of Oregon ducks
+o27o	University of Oregon senior tight end Jacob Breeland (27)	Jacob Breeland (27) of the University of Oregon ducks
+o28d	University of Oregon redshirt freshman inside linebacker Andrew Johnson Jr. (28)	Andrew Johnson Jr. (28) of the University of Oregon ducks
+o28o	University of Oregon freshman running back Cross Patton (28)	Cross Patton (28) of the University of Oregon ducks
+o29d	University of Oregon sophomore outside linebacker Adrian Jackson (29)	Adrian Jackson (29) of the University of Oregon ducks
+o29o	University of Oregon redshirt freshman wide receiver Korbin Williams (29)	Korbin Williams (29) of the University of Oregon ducks
+o30o	University of Oregon junior wide receiver Jaylon Redd (30)	Jaylon Redd (30) of the University of Oregon ducks
+o31d	University of Oregon senior safety Sean Killpatrick (31)	Sean Killpatrick (31) of the University of Oregon ducks
+o32d	University of Oregon senior outside linebacker La'Mar Winston Jr. (32)	La'Mar Winston Jr. (32) of the University of Oregon ducks
+o33d	University of Oregon redshirt freshman cornerback Jordan Adeyemi-John (33)	Jordan Adeyemi-John (33) of the University of Oregon ducks
+o33o	University of Oregon sophomore running back Cyrus Habibi-Likio (33)	Cyrus Habibi-Likio (33) of the University of Oregon ducks
+o34d	University of Oregon junior defensive tackle Jordon Scott (34)	Jordon Scott (34) of the University of Oregon ducks
+o35d	University of Oregon senior inside linebacker Troy Dye (35)	Troy Dye (35) of the University of Oregon ducks
+o36d	University of Oregon senior cornerback Charles Sudduth (36)	Charles Sudduth (36) of the University of Oregon ducks
+o37s	University of Oregon redshirt freshman kicker Henry Katleman (37)	Henry Katleman (37) of the University of Oregon ducks
+o37d	University of Oregon freshman safety Max Wysocki (37)	Max Wysocki (37) of the University of Oregon ducks
+o38d	University of Oregon redshirt freshman safety Lucas Noland (38)	Lucas Noland (38) of the University of Oregon ducks
+o38s	University of Oregon sophomore punter Tom Snee (38)	Tom Snee (38) of the University of Oregon ducks
+o39d	University of Oregon redshirt freshman inside linebacker MJ Cunningham (39)	MJ Cunningham (39) of the University of Oregon ducks
+o39o	University of Oregon sophomore running back KJ Maduike (39)	KJ Maduike (39) of the University of Oregon ducks
+o40o	University of Oregon junior running back Noah Dahl (40)	Noah Dahl (40) of the University of Oregon ducks
+o41d	University of Oregon sophomore inside linebacker Isaac Slade-Matautia (41)	Isaac Slade-Matautia (41) of the University of Oregon ducks
+o42s	University of Oregon senior punter Blake Maimone (42)	Blake Maimone (42) of the University of Oregon ducks
+o43d	University of Oregon redshirt freshman inside linebacker Nick Wiebe (43)	Nick Wiebe (43) of the University of Oregon ducks
+o44o	University of Oregon senior tight end Matt Mariota (44)	Matt Mariota (44) of the University of Oregon ducks
+o45d	University of Oregon senior defensive end Gus Cumberlander (45)	Gus Cumberlander (45) of the University of Oregon ducks
+o46d	University of Oregon junior inside linebacker Nate Heaukulani (46)	Nate Heaukulani (46) of the University of Oregon ducks
+o47d	University of Oregon freshman outside linebacker Mase Funa (47)	Mase Funa (47) of the University of Oregon ducks
+o47s	University of Oregon redshirt freshman long snapper Peyton Yanagi (47)	Peyton Yanagi (47) of the University of Oregon ducks
+o48o	University of Oregon junior tight end Hunter Kampmoyer (48)	Hunter Kampmoyer (48) of the University of Oregon ducks
+o48d	University of Oregon freshman outside linebacker Treven Ma'ae (48)	Treven Ma'ae (48) of the University of Oregon ducks
+o49s	University of Oregon freshman kicker Camden Lewis (49)	Camden Lewis (49) of the University of Oregon ducks
+o49o	University of Oregon freshman tight end Tyler Nanney (49)	Tyler Nanney (49) of the University of Oregon ducks
+o50d	University of Oregon sophomore defensive tackle Popo Aumavae (50)	Popo Aumavae (50) of the University of Oregon ducks
+o51d	University of Oregon senior defensive tackle Gary Baker (51)	Gary Baker (51) of the University of Oregon ducks
+o52d	University of Oregon redshirt freshman defensive tackle Andrew Faoliu (52)	Andrew Faoliu (52) of the University of Oregon ducks
+o53d	University of Oregon senior outside linebacker Matt Christman (53)	Matt Christman (53) of the University of Oregon ducks
+o53o	University of Oregon sophomore offensive lineman Ryan Walk (53)	Ryan Walk (53) of the University of Oregon ducks
+o54d	University of Oregon junior inside linebacker Dru Mathis (54)	Dru Mathis (54) of the University of Oregon ducks
+o54o	University of Oregon senior offensive lineman Calvin Throckmorton (54)	Calvin Throckmorton (54) of the University of Oregon ducks
+o55o	University of Oregon senior offensive lineman Jake Hanson (55)	Jake Hanson (55) of the University of Oregon ducks
+o55d	University of Oregon junior inside linebacker Sampson Niu (55)	Sampson Niu (55) of the University of Oregon ducks
+o56d	University of Oregon senior outside linebacker Bryson Young (56)	Bryson Young (56) of the University of Oregon ducks
+o57d	University of Oregon senior inside linebacker Ben Gomes (57)	Ben Gomes (57) of the University of Oregon ducks
+o58o	University of Oregon sophomore offensive lineman Penei Sewell (58)	Penei Sewell (58) of the University of Oregon ducks
+o59o	University of Oregon redshirt freshman offensive lineman Devin Lewis (59)	Devin Lewis (59) of the University of Oregon ducks
+o63s	University of Oregon sophomore long snapper Karsten Battles (63)	Karsten Battles (63) of the University of Oregon ducks
+o64o	University of Oregon senior offensive lineman Charlie Landgraf (64)	Charlie Landgraf (64) of the University of Oregon ducks
+o66o	University of Oregon senior offensive lineman Brady Aiello (66)	Brady Aiello (66) of the University of Oregon ducks
+o67o	University of Oregon freshman offensive lineman Cole Young (67)	Cole Young (67) of the University of Oregon ducks
+o68o	University of Oregon senior offensive lineman Shane Lemieux (68)	Shane Lemieux (68) of the University of Oregon ducks
+o70o	University of Oregon redshirt freshman offensive lineman Dawson Jaramillo (70)	Dawson Jaramillo (70) of the University of Oregon ducks
+o71o	University of Oregon junior offensive lineman Malaesala Aumavae-Laulu (71)	Malaesala Aumavae-Laulu (71) of the University of Oregon ducks
+o72o	University of Oregon junior offensive lineman Sam Poutasi (72)	Sam Poutasi (72) of the University of Oregon ducks
+o73o	University of Oregon redshirt freshman offensive lineman Justin Johnson (73)	Justin Johnson (73) of the University of Oregon ducks
+o74o	University of Oregon sophomore offensive lineman Steven Jones (74)	Steven Jones (74) of the University of Oregon ducks
+o75o	University of Oregon senior offensive lineman Dallas Warmack (75)	Dallas Warmack (75) of the University of Oregon ducks
+o76o	University of Oregon freshman offensive lineman Jonah Tauanu'u (76)	Jonah Tauanu'u (76) of the University of Oregon ducks
+o77o	University of Oregon senior offensive lineman George Moore (77)	George Moore (77) of the University of Oregon ducks
+o78o	University of Oregon sophomore offensive lineman Alex Forsyth (78)	Alex Forsyth (78) of the University of Oregon ducks
+o79o	University of Oregon redshirt freshman offensive lineman Chris Randazzo (79)	Chris Randazzo (79) of the University of Oregon ducks
+o80o	University of Oregon redshirt freshman wide receiver Bryan Addison (80)	Bryan Addison (80) of the University of Oregon ducks
+o81o	University of Oregon freshman tight end Patrick Herbert (81)	Patrick Herbert (81) of the University of Oregon ducks
+o82o	University of Oregon junior wide receiver Justin Collins (82)	Justin Collins (82) of the University of Oregon ducks
+o83o	University of Oregon freshman wide receiver Josh Delgado (83)	Josh Delgado (83) of the University of Oregon ducks
+o84o	University of Oregon junior tight end Cam McCormick (84)	Cam McCormick (84) of the University of Oregon ducks
+o85d	University of Oregon freshman outside linebacker Isaac Townsend (85)	Isaac Townsend (85) of the University of Oregon ducks
+o85o	University of Oregon freshman wide receiver JR Waters (85)	JR Waters (85) of the University of Oregon ducks
+o86o	University of Oregon freshman wide receiver Lance Wilhoite (86)	Lance Wilhoite (86) of the University of Oregon ducks
+o87o	University of Oregon senior tight end Ryan Bay (87)	Ryan Bay (87) of the University of Oregon ducks
+o88o	University of Oregon redshirt freshman wide receiver Isaah Crocker (88)	Isaah Crocker (88) of the University of Oregon ducks
+o90d	University of Oregon senior defensive tackle Drayton Carlberg (90)	Drayton Carlberg (90) of the University of Oregon ducks
+o91s	University of Oregon redshirt freshman kicker Taylor Koth (91)	Taylor Koth (91) of the University of Oregon ducks
+o91d	University of Oregon freshman defensive tackle Kristian Williams (91)	Kristian Williams (91) of the University of Oregon ducks
+o92d	University of Oregon redshirt freshman defensive tackle Miguel Nevarez (92)	Miguel Nevarez (92) of the University of Oregon ducks
+o93d	University of Oregon senior defensive tackle Sione Kava (93)	Sione Kava (93) of the University of Oregon ducks
+o94d	University of Oregon freshman defensive tackle Sua'ava Poti (94)	Sua'ava Poti (94) of the University of Oregon ducks
+o95d	University of Oregon freshman defensive tackle Keyon Ware-Hudson (95)	Keyon Ware-Hudson (95) of the University of Oregon ducks
+o97d	University of Oregon freshman defensive tackle Brandon Dorlus (97)	Brandon Dorlus (97) of the University of Oregon ducks
+o99d	University of Oregon junior defensive tackle Austin Faoliu (99)	Austin Faoliu (99) of the University of Oregon ducks

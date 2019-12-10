@@ -1,0 +1,109 @@
+a1o	University of Arizona redshirt sophomore wide receiver Drew DixonDixon (1)	Drew DixonDixon (1) of the University of Arizona wildcats
+a1d	University of Arizona junior linebacker Tony TonyFields II II (1)	Tony TonyFields II II (1) of the University of Arizona wildcats
+a2d	University of Arizona redshirt junior cornerback Lorenzo BurnsBurns (2)	Lorenzo BurnsBurns (2) of the University of Arizona wildcats
+a2o	University of Arizona freshman wide receiver Boobie CurryCurry (2)	Boobie CurryCurry (2) of the University of Arizona wildcats
+a3o	University of Arizona redshirt freshman wide receiver Tre AdamsAdams (3)	Tre AdamsAdams (3) of the University of Arizona wildcats
+a3d	University of Arizona redshirt junior safety Jarrius WallaceWallace (3)	Jarrius WallaceWallace (3) of the University of Arizona wildcats
+a4o	University of Arizona junior quarterback Rhett RodriguezRodriguez (4)	Rhett RodriguezRodriguez (4) of the University of Arizona wildcats
+a4d	University of Arizona freshman cornerback Christian Roland-WallaceRoland-Wallace (4)	Christian Roland-WallaceRoland-Wallace (4) of the University of Arizona wildcats
+a5o	University of Arizona junior wide receiver Brian CasteelCasteel (5)	Brian CasteelCasteel (5) of the University of Arizona wildcats
+a5d	University of Arizona sophomore safety Christian YoungYoung (5)	Christian YoungYoung (5) of the University of Arizona wildcats
+a6o	University of Arizona freshman running back Michael WileyWiley (6)	Michael WileyWiley (6) of the University of Arizona wildcats
+a6d	University of Arizona junior safety Scottie ScottieYoung Jr. Jr. (6)	Scottie ScottieYoung Jr. Jr. (6) of the University of Arizona wildcats
+a7o	University of Arizona freshman wide receiver Jaden MitchellMitchell (7)	Jaden MitchellMitchell (7) of the University of Arizona wildcats
+a7d	University of Arizona junior linebacker Colin SchoolerSchooler (7)	Colin SchoolerSchooler (7) of the University of Arizona wildcats
+a8o	University of Arizona redshirt sophomore wide receiver Thomas AychAych (8)	Thomas AychAych (8) of the University of Arizona wildcats
+a8d	University of Arizona junior linebacker Anthony PandyPandy (8)	Anthony PandyPandy (8) of the University of Arizona wildcats
+a9d	University of Arizona redshirt freshman linebacker Day DayColeman (9)	Day DayColeman (9) of the University of Arizona wildcats
+a9o	University of Arizona freshman wide receiver Jalen JohnsonJohnson (9)	Jalen JohnsonJohnson (9) of the University of Arizona wildcats
+a10o	University of Arizona redshirt freshman wide receiver Jamarye JoinerJoiner (10)	Jamarye JoinerJoiner (10) of the University of Arizona wildcats
+a11o	University of Arizona junior wide receiver Tayvian CunninghamCunningham (11)	Tayvian CunninghamCunningham (11) of the University of Arizona wildcats
+a11d	University of Arizona junior safety Troy YoungYoung (11)	Troy YoungYoung (11) of the University of Arizona wildcats
+a12d	University of Arizona junior defensive end JB BrownBrown (12)	JB BrownBrown (12) of the University of Arizona wildcats
+a12o	University of Arizona redshirt freshman quarterback Kevin DoyleDoyle (12)	Kevin DoyleDoyle (12) of the University of Arizona wildcats
+a12o	University of Arizona redshirt senior wide receiver Malcolm HollandHolland (12)	Malcolm HollandHolland (12) of the University of Arizona wildcats
+a13o	University of Arizona redshirt freshman quarterback Luke AshworthAshworth (13)	Luke AshworthAshworth (13) of the University of Arizona wildcats
+a13d	University of Arizona senior safety Chacho UlloaUlloa (13)	Chacho UlloaUlloa (13) of the University of Arizona wildcats
+a14o	University of Arizona senior quarterback Khalil TateTate (14)	Khalil TateTate (14) of the University of Arizona wildcats
+a14	University of Arizona   Kylan WilbornWilborn Jr.Northridge (14)	Kylan WilbornWilborn Jr.Northridge (14) of the University of Arizona wildcats
+a15d	University of Arizona sophomore cornerback McKenzie BarnesBarnes (15)	McKenzie BarnesBarnes (15) of the University of Arizona wildcats
+a15o	University of Arizona redshirt freshman quarterback Cameron FeitzFietz (15)	Cameron FeitzFietz (15) of the University of Arizona wildcats
+a16o	University of Arizona redshirt junior wide receiver Thomas ThomasReid III III (16)	Thomas ThomasReid III III (16) of the University of Arizona wildcats
+a17o	University of Arizona freshman quarterback Grant GunnellGunnell (17)	Grant GunnellGunnell (17) of the University of Arizona wildcats
+a17d	University of Arizona redshirt senior cornerback Jace WhittakerWhittaker (17)	Jace WhittakerWhittaker (17) of the University of Arizona wildcats
+a18o	University of Arizona redshirt senior wide receiver Cedric PetersonPeterson (18)	Cedric PetersonPeterson (18) of the University of Arizona wildcats
+a18d	University of Arizona freshman cornerback Dhameer WarrenWarren (18)	Dhameer WarrenWarren (18) of the University of Arizona wildcats
+a19s	University of Arizona freshman punter Kyle OstendorpOstendorp (19)	Kyle OstendorpOstendorp (19) of the University of Arizona wildcats
+a19d	University of Arizona freshman defensive end Kwabena WatsonWatson (19)	Kwabena WatsonWatson (19) of the University of Arizona wildcats
+a20o	University of Arizona redshirt freshman running back Darrius "Bam"Smith (20)	Darrius "Bam"Smith (20) of the University of Arizona wildcats
+a21o	University of Arizona redshirt junior running back J.J. TaylorTaylor (21)	J.J. TaylorTaylor (21) of the University of Arizona wildcats
+a23o	University of Arizona junior running back Gary BrightwellBrightwell (23)	Gary BrightwellBrightwell (23) of the University of Arizona wildcats
+a23d	University of Arizona redshirt sophomore cornerback Malik HausmanHausman (23)	Malik HausmanHausman (23) of the University of Arizona wildcats
+a24d	University of Arizona redshirt sophomore safety Rhedi ShortShort (24)	Rhedi ShortShort (24) of the University of Arizona wildcats
+a24d	University of Arizona freshman safety Jaxen TurnerTurner (24)	Jaxen TurnerTurner (24) of the University of Arizona wildcats
+a25o	University of Arizona freshman wide receiver Devin GreenGreen (25)	Devin GreenGreen (25) of the University of Arizona wildcats
+a25d	University of Arizona freshman cornerback Bobby WolfeWolfe (25)	Bobby WolfeWolfe (25) of the University of Arizona wildcats
+a26s	University of Arizona redshirt senior punter Matt AragonAragon (26)	Matt AragonAragon (26) of the University of Arizona wildcats
+a26d	University of Arizona freshman linebacker Eddie Siaumau-SanitoaSiaumau-Sanitoa (26)	Eddie Siaumau-SanitoaSiaumau-Sanitoa (26) of the University of Arizona wildcats
+a27d	University of Arizona freshman linebacker Derrion ClarkClark (27)	Derrion ClarkClark (27) of the University of Arizona wildcats
+a28o	University of Arizona redshirt freshman running back Nazar BombataBombata (28)	Nazar BombataBombata (28) of the University of Arizona wildcats
+a29d	University of Arizona junior safety Samari SpringsSprings (29)	Samari SpringsSprings (29) of the University of Arizona wildcats
+a30d	University of Arizona freshman safety Quinn SullivanSullivan (30)	Quinn SullivanSullivan (30) of the University of Arizona wildcats
+a31d	University of Arizona senior safety Tristan CooperCooper (31)	Tristan CooperCooper (31) of the University of Arizona wildcats
+a32	University of Arizona   Jacob Meeker-HackettMeeker-HackettTucson (32)	Jacob Meeker-HackettMeeker-HackettTucson (32) of the University of Arizona wildcats
+a32d	University of Arizona freshman safety Blake WashingtonWashington (32)	Blake WashingtonWashington (32) of the University of Arizona wildcats
+a33d	University of Arizona redshirt sophomore safety Blake PfaffPfaff (33)	Blake PfaffPfaff (33) of the University of Arizona wildcats
+a33o	University of Arizona redshirt sophomore running back Nathan TilfordTilford (33)	Nathan TilfordTilford (33) of the University of Arizona wildcats
+a34o	University of Arizona freshman running back John BurtonBurton (34)	John BurtonBurton (34) of the University of Arizona wildcats
+a35o	University of Arizona redshirt sophomore wide receiver Karl AltenburgAltenburg (35)	Karl AltenburgAltenburg (35) of the University of Arizona wildcats
+a36o	University of Arizona redshirt junior running back Bryce ColemanColeman (36)	Bryce ColemanColeman (36) of the University of Arizona wildcats
+a37d	University of Arizona redshirt sophomore safety Xavier BellBell (37)	Xavier BellBell (37) of the University of Arizona wildcats
+a38d	University of Arizona sophomore linebacker Dante SmithSmith (38)	Dante SmithSmith (38) of the University of Arizona wildcats
+a39o	University of Arizona sophomore tight end Tristen DD'Angelo (39)	Tristen DD'Angelo (39) of the University of Arizona wildcats
+a40o	University of Arizona redshirt freshman wide receiver Jashon ButlerButler (40)	Jashon ButlerButler (40) of the University of Arizona wildcats
+a40d	University of Arizona junior defensive end Dante Diaz-InfanteDiaz-Infante (40)	Dante Diaz-InfanteDiaz-Infante (40) of the University of Arizona wildcats
+a41o	University of Arizona senior wide receiver Daniel EgboEgbo (41)	Daniel EgboEgbo (41) of the University of Arizona wildcats
+a42	University of Arizona   Connor HutchingsHutchings Jr.Phoenix (42)	Connor HutchingsHutchings Jr.Phoenix (42) of the University of Arizona wildcats
+a43s	University of Arizona junior kicker Lucas HavrisikHavrisik (43)	Lucas HavrisikHavrisik (43) of the University of Arizona wildcats
+a44d	University of Arizona freshman linebacker Calib McRaeMcRae (44)	Calib McRaeMcRae (44) of the University of Arizona wildcats
+a45d	University of Arizona redshirt freshman defensive end Issaiah JohnsonJohnson (45)	Issaiah JohnsonJohnson (45) of the University of Arizona wildcats
+a46o	University of Arizona redshirt freshman tight end Jack KocemanKoceman (46)	Jack KocemanKoceman (46) of the University of Arizona wildcats
+a47d	University of Arizona redshirt sophomore safety Rourke FreeburgFreeburg (47)	Rourke FreeburgFreeburg (47) of the University of Arizona wildcats
+a48d	University of Arizona redshirt sophomore linebacker Parker HenleyHenley (48)	Parker HenleyHenley (48) of the University of Arizona wildcats
+a49	University of Arizona   Jalen HarrisHarrisMesa (49)	Jalen HarrisHarrisMesa (49) of the University of Arizona wildcats
+a50o	University of Arizona redshirt junior offensive lineman Josh McCauleyMcCauley (50)	Josh McCauleyMcCauley (50) of the University of Arizona wildcats
+a51	University of Arizona   Lee LeeAnderson III III Sr.Valley (51)	Lee LeeAnderson III III Sr.Valley (51) of the University of Arizona wildcats
+a51s	University of Arizona redshirt junior long snapper Donald ReiterReiter (51)	Donald ReiterReiter (51) of the University of Arizona wildcats
+a53o	University of Arizona redshirt junior offensive lineman Jon JacobsJacobs (53)	Jon JacobsJacobs (53) of the University of Arizona wildcats
+a53d	University of Arizona redshirt junior linebacker Richard MerrittMerritt (53)	Richard MerrittMerritt (53) of the University of Arizona wildcats
+a54	University of Arizona   Bryson CainCainTemecula (54)	Bryson CainCainTemecula (54) of the University of Arizona wildcats
+a55d	University of Arizona freshman defensive lineman Chandler KellyKelly (55)	Chandler KellyKelly (55) of the University of Arizona wildcats
+a55o	University of Arizona freshman offensive lineman Jamari WilliamsWilliams (55)	Jamari WilliamsWilliams (55) of the University of Arizona wildcats
+a56o	University of Arizona junior offensive lineman Josh DonovanDonovan (56)	Josh DonovanDonovan (56) of the University of Arizona wildcats
+a58d	University of Arizona redshirt freshman defensive tackle Nahe SulungaSulunga (58)	Nahe SulungaSulunga (58) of the University of Arizona wildcats
+a60d	University of Arizona redshirt freshman defensive lineman Mykee IrvingIrving (60)	Mykee IrvingIrving (60) of the University of Arizona wildcats
+a63o	University of Arizona senior offensive lineman Steven BaileyBailey (63)	Steven BaileyBailey (63) of the University of Arizona wildcats
+a64s	University of Arizona freshman long snapper Seth MacKellarMacKellar (64)	Seth MacKellarMacKellar (64) of the University of Arizona wildcats
+a66o	University of Arizona redshirt sophomore offensive lineman Robert CongelCongel (66)	Robert CongelCongel (66) of the University of Arizona wildcats
+a67o	University of Arizona redshirt freshman offensive lineman David WatsonWatson (67)	David WatsonWatson (67) of the University of Arizona wildcats
+a72o	University of Arizona redshirt sophomore offensive lineman Edgar BurrolaBurrola (72)	Edgar BurrolaBurrola (72) of the University of Arizona wildcats
+a74o	University of Arizona sophomore offensive lineman Paiton FearsFears (74)	Paiton FearsFears (74) of the University of Arizona wildcats
+a76o	University of Arizona redshirt senior offensive lineman Cody CreasonCreason (76)	Cody CreasonCreason (76) of the University of Arizona wildcats
+a77o	University of Arizona freshman offensive lineman Jordan MorganMorgan (77)	Jordan MorganMorgan (77) of the University of Arizona wildcats
+a78o	University of Arizona sophomore offensive lineman Donovan LaieLaie (78)	Donovan LaieLaie (78) of the University of Arizona wildcats
+a79o	University of Arizona redshirt sophomore offensive lineman Tyson GardnerGardner (79)	Tyson GardnerGardner (79) of the University of Arizona wildcats
+a80s	University of Arizona freshman kicker Nathan HalsellHalsell (80)	Nathan HalsellHalsell (80) of the University of Arizona wildcats
+a81d	University of Arizona redshirt junior defensive end Jalen CochranCochran (81)	Jalen CochranCochran (81) of the University of Arizona wildcats
+a81o	University of Arizona junior tight end Bryce WolmaWolma (81)	Bryce WolmaWolma (81) of the University of Arizona wildcats
+a82o	University of Arizona redshirt freshman wide receiver Zach WilliamsWilliams (82)	Zach WilliamsWilliams (82) of the University of Arizona wildcats
+a83o	University of Arizona redshirt senior wide receiver Terrence JohnsonJohnson (83)	Terrence JohnsonJohnson (83) of the University of Arizona wildcats
+a86d	University of Arizona redshirt senior defensive end Justin BelknapBelknap (86)	Justin BelknapBelknap (86) of the University of Arizona wildcats
+a86o	University of Arizona redshirt sophomore wide receiver Stanley StanleyBerryhill III III (86)	Stanley StanleyBerryhill III III (86) of the University of Arizona wildcats
+a88o	University of Arizona freshman wide receiver Vince EllisonEllison (88)	Vince EllisonEllison (88) of the University of Arizona wildcats
+a89o	University of Arizona redshirt freshman wide receiver Brice VooletichVooletich (89)	Brice VooletichVooletich (89) of the University of Arizona wildcats
+a90d	University of Arizona junior defensive lineman Trevon MasonMason (90)	Trevon MasonMason (90) of the University of Arizona wildcats
+a91d	University of Arizona redshirt senior defensive tackle Finton ConnollyConnolly (91)	Finton ConnollyConnolly (91) of the University of Arizona wildcats
+a92d	University of Arizona freshman defensive tackle Kyon BarrsBarrs (92)	Kyon BarrsBarrs (92) of the University of Arizona wildcats
+a94d	University of Arizona freshman defensive tackle Naz HigginsHiggins (94)	Naz HigginsHiggins (94) of the University of Arizona wildcats
+a99d	University of Arizona junior defensive lineman Myles TapusoaTapusoa (99)	Myles TapusoaTapusoa (99) of the University of Arizona wildcats
+a99	University of Arizona   Cameron WeinbergWeinbergMesa (99)	Cameron WeinbergWeinbergMesa (99) of the University of Arizona wildcats

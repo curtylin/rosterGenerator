@@ -1,0 +1,123 @@
+b1	BYU   Troy WarnerMarcos (1)	Troy WarnerMarcos (1) of the BYU cougars
+b1	BYU   Zach WilsonDraper (1)	Zach WilsonDraper (1) of the BYU cougars
+b2	BYU   Dallin LeeDraper (2)	Dallin LeeDraper (2) of the BYU cougars
+b2	BYU   Austin LeeDraper (2)	Austin LeeDraper (2) of the BYU cougars
+b2	BYU   Neil Pau'uAna (2)	Neil Pau'uAna (2) of the BYU cougars
+b3d	BYU sophomore linebacker Chaz Ah (3)	Chaz Ah (3) of the BYU cougars
+b3	BYU   Jaren HallFork (3)	Jaren HallFork (3) of the BYU cougars
+b4	BYU   Lopini KatoaFork (4)	Lopini KatoaFork (4) of the BYU cougars
+b5	BYU   Dayan GhanwolokuLayton (5)	Dayan GhanwolokuLayton (5) of the BYU cougars
+b5	BYU   Ty'Son WilliamsSumter (5)	Ty'Son WilliamsSumter (5) of the BYU cougars
+b7	BYU   George UdoAntioch (7)	George UdoAntioch (7) of the BYU cougars
+b10	BYU   Javelle BrownDiego (10)	Javelle BrownDiego (10) of the BYU cougars
+b10	BYU   Joe CritchlowFranklin (10)	Joe CritchlowFranklin (10) of the BYU cougars
+b11	BYU   Isaiah HerronVegas (11)	Isaiah HerronVegas (11) of the BYU cougars
+b12	BYU   Malik MooreDiego (12)	Malik MooreDiego (12) of the BYU cougars
+b13	BYU   Micah SimonDallas (13)	Micah SimonDallas (13) of the BYU cougars
+b15	BYU   Aleva HifoMenifee (15)	Aleva HifoMenifee (15) of the BYU cougars
+b16	BYU   D'Angelo MandellDiego (16)	D'Angelo MandellDiego (16) of the BYU cougars
+b16	BYU   Baylor RomneyPaso (16)	Baylor RomneyPaso (16) of the BYU cougars
+b17d	BYU sophomore linebacker Matthew Criddle (17)	Matthew Criddle (17) of the BYU cougars
+b17	BYU   Moroni Laulu-PututauHyrum (17)	Moroni Laulu-PututauHyrum (17) of the BYU cougars
+b18	BYU   Gunner RomneyChandler (18)	Gunner RomneyChandler (18) of the BYU cougars
+b19s	BYU junior punter Danny Jones (19)	Danny Jones (19) of the BYU cougars
+b19	BYU   Rhett ReillyCenter (19)	Rhett ReillyCenter (19) of the BYU cougars
+b20s	BYU sophomore kicker Skyler Southam (20)	Skyler Southam (20) of the BYU cougars
+b21d	BYU junior linebacker Sam Lee (21)	Sam Lee (21) of the BYU cougars
+b21	BYU   Talon ShumwayJordan (21)	Talon ShumwayJordan (21) of the BYU cougars
+b22	BYU   Dimitri GallowValley (22)	Dimitri GallowValley (22) of the BYU cougars
+b22	BYU   Hayden LivingstonRigby (22)	Hayden LivingstonRigby (22) of the BYU cougars
+b22	BYU   Nephi StevensAiea (22)	Nephi StevensAiea (22) of the BYU cougars
+b23d	BYU senior linebacker Zayne Anderson (23)	Zayne Anderson (23) of the BYU cougars
+b23	BYU   Batchlor Johnson IVKaty (23)	Batchlor Johnson IVKaty (23) of the BYU cougars
+b24	BYU   Luc AndradaPueblo (24)	Luc AndradaPueblo (24) of the BYU cougars
+b24	BYU   Austin KafentzisSandy (24)	Austin KafentzisSandy (24) of the BYU cougars
+b25d	BYU freshman linebacker Tyler Allgeier (25)	Tyler Allgeier (25) of the BYU cougars
+b26	BYU   Mitchell PriceGrove (26)	Mitchell PriceGrove (26) of the BYU cougars
+b26	BYU   Spencer RomneyGroveHS (26)	Spencer RomneyGroveHS (26) of the BYU cougars
+b27	BYU   Jackson McChesneyHighland (27)	Jackson McChesneyHighland (27) of the BYU cougars
+b27	BYU   Beau TannerGilbert (27)	Beau TannerGilbert (27) of the BYU cougars
+b28	BYU   Sawyer PowellRichland (28)	Sawyer PowellRichland (28) of the BYU cougars
+b29	BYU   Chase WesterHoschton (29)	Chase WesterHoschton (29) of the BYU cougars
+b29	BYU   Shamon WillisDraper (29)	Shamon WillisDraper (29) of the BYU cougars
+b30	BYU   Keenan EllisDiego (30)	Keenan EllisDiego (30) of the BYU cougars
+b30	BYU   Will WatanabeProvo (30)	Will WatanabeProvo (30) of the BYU cougars
+b30	BYU   Alec Wyble-MezaGrande (30)	Alec Wyble-MezaGrande (30) of the BYU cougars
+b31	BYU   Jacob BorenCity (31)	Jacob BorenCity (31) of the BYU cougars
+b31d	BYU freshman linebacker Max Tooley (31)	Max Tooley (31) of the BYU cougars
+b32	BYU   Hank TuipulotuMill (32)	Hank TuipulotuMill (32) of the BYU cougars
+b32	BYU   Chris WilcoxFontana (32)	Chris WilcoxFontana (32) of the BYU cougars
+b33	BYU   Emmanuel EsukpaPrairie (33)	Emmanuel EsukpaPrairie (33) of the BYU cougars
+b34d	BYU junior linebacker Kavika Fonua (34)	Kavika Fonua (34) of the BYU cougars
+b34	BYU   Tavita GagnierTooele (34)	Tavita GagnierTooele (34) of the BYU cougars
+b35	BYU   Sione FinauKearns (35)	Sione FinauKearns (35) of the BYU cougars
+b35	BYU   Ammon HannemannHighland (35)	Ammon HannemannHighland (35) of the BYU cougars
+b36d	BYU freshman linebacker Kade Pupunu (36)	Kade Pupunu (36) of the BYU cougars
+b36	BYU   Morgan PyperFalls (36)	Morgan PyperFalls (36) of the BYU cougars
+b37	BYU   Kimball HenstromDraper (37)	Kimball HenstromDraper (37) of the BYU cougars
+b37	BYU   Masen WakeHills (37)	Masen WakeHills (37) of the BYU cougars
+b38d	BYU freshman linebacker Jackson Kaufusi (38)	Jackson Kaufusi (38) of the BYU cougars
+b39s	BYU sophomore punter Jake OldroydKicker (39)	Jake OldroydKicker (39) of the BYU cougars
+b41d	BYU freshman linebacker Keenan Pili (41)	Keenan Pili (41) of the BYU cougars
+b42	BYU   Kyle GriffittsWindermere (42)	Kyle GriffittsWindermere (42) of the BYU cougars
+b43	BYU   Chapman BeairdFranklin (43)	Chapman BeairdFranklin (43) of the BYU cougars
+b43	BYU   Jared KapisiPukalani (43)	Jared KapisiPukalani (43) of the BYU cougars
+b44	BYU   Seleti FevaleakiCorona (44)	Seleti FevaleakiCorona (44) of the BYU cougars
+b45	BYU   Darius McFarlandCity (45)	Darius McFarlandCity (45) of the BYU cougars
+b46d	BYU freshman linebacker Drew Jensen (46)	Drew Jensen (46) of the BYU cougars
+b46d	BYU sophomore linebacker Pepe Tanuvasa (46)	Pepe Tanuvasa (46) of the BYU cougars
+b47d	BYU freshman linebacker Ben Bywater (47)	Ben Bywater (47) of the BYU cougars
+b48d	BYU freshman linebacker Solofa Funa (48)	Solofa Funa (48) of the BYU cougars
+b48d	BYU freshman linebacker Alex Miskela (48)	Alex Miskela (48) of the BYU cougars
+b49d	BYU freshman linebacker Payton Wilgar (49)	Payton Wilgar (49) of the BYU cougars
+b50d	BYU senior linebacker Sam Baldwin (50)	Sam Baldwin (50) of the BYU cougars
+b51	BYU   Jeddy TuilomaTopeka (51)	Jeddy TuilomaTopeka (51) of the BYU cougars
+b52	BYU   Trajan PiliVegas (52)	Trajan PiliVegas (52) of the BYU cougars
+b53d	BYU junior linebacker Isaiah Kaufusi (53)	Isaiah Kaufusi (53) of the BYU cougars
+b54s	BYU freshman long snapper Britton Hogan (54)	Britton Hogan (54) of the BYU cougars
+b55	BYU   Lorenzo FauateaValley (55)	Lorenzo FauateaValley (55) of the BYU cougars
+b56	BYU   Clark BarringtonSpokane (56)	Clark BarringtonSpokane (56) of the BYU cougars
+b57	BYU   Alden TofaJordan (57)	Alden TofaJordan (57) of the BYU cougars
+b58	BYU   Uriah LeiatauaCompton (58)	Uriah LeiatauaCompton (58) of the BYU cougars
+b59	BYU   Thomas ShoafColumbus (59)	Thomas ShoafColumbus (59) of the BYU cougars
+b61	BYU   Keanu SaleapagaLakewood (61)	Keanu SaleapagaLakewood (61) of the BYU cougars
+b62	BYU   Atunaisa MaheJordan (62)	Atunaisa MaheJordan (62) of the BYU cougars
+b63	BYU   Joe TukuafuGlendale (63)	Joe TukuafuGlendale (63) of the BYU cougars
+b64	BYU   Brayden KeimSandy (64)	Brayden KeimSandy (64) of the BYU cougars
+b65	BYU   Ethan AtagiOgden (65)	Ethan AtagiOgden (65) of the BYU cougars
+b66	BYU   James EmpeyFork (66)	James EmpeyFork (66) of the BYU cougars
+b67	BYU   Brady ChristensenBountiful (67)	Brady ChristensenBountiful (67) of the BYU cougars
+b68	BYU   Mo UnutoaKapaa (68)	Mo UnutoaKapaa (68) of the BYU cougars
+b69	BYU   Tristen HogePocatello (69)	Tristen HogePocatello (69) of the BYU cougars
+b70	BYU   Brevan WardGilbert (70)	Brevan WardGilbert (70) of the BYU cougars
+b71	BYU   Blake FreelandHerriman (71)	Blake FreelandHerriman (71) of the BYU cougars
+b72	BYU   Addison PulsipherTemecula (72)	Addison PulsipherTemecula (72) of the BYU cougars
+b73	BYU   Caden HawsRock (73)	Caden HawsRock (73) of the BYU cougars
+b74	BYU   Kieffer LongsonRamon (74)	Kieffer LongsonRamon (74) of the BYU cougars
+b75	BYU   JT GentryLittleton (75)	JT GentryLittleton (75) of the BYU cougars
+b76	BYU   Harris LaChanceHerriman (76)	Harris LaChanceHerriman (76) of the BYU cougars
+b77	BYU   Chandon HerringGilbert (77)	Chandon HerringGilbert (77) of the BYU cougars
+b79	BYU   Jacob SmithFarmington (79)	Jacob SmithFarmington (79) of the BYU cougars
+b80	BYU   Koy HarrisHenderson (80)	Koy HarrisHenderson (80) of the BYU cougars
+b80	BYU   Nate HeapsFork (80)	Nate HeapsFork (80) of the BYU cougars
+b82	BYU   Talmage GuntherHills (82)	Talmage GuntherHills (82) of the BYU cougars
+b82	BYU   Dax MilneJordan (82)	Dax MilneJordan (82) of the BYU cougars
+b83	BYU   Isaac RexClemente (83)	Isaac RexClemente (83) of the BYU cougars
+b83	BYU   Austin WhetzelLehi (83)	Austin WhetzelLehi (83) of the BYU cougars
+b84	BYU   Tevita IkaProvo (84)	Tevita IkaProvo (84) of the BYU cougars
+b85	BYU   Brayden CosperJordan (85)	Brayden CosperJordan (85) of the BYU cougars
+b86	BYU   Keanu HillBedford (86)	Keanu HillBedford (86) of the BYU cougars
+b86	BYU   Jacob TalbotRedmond (86)	Jacob TalbotRedmond (86) of the BYU cougars
+b88	BYU   JJ NwigweRockwall (88)	JJ NwigweRockwall (88) of the BYU cougars
+b88	BYU   Alema PilimaiTustin (88)	Alema PilimaiTustin (88) of the BYU cougars
+b89	BYU   Matt BushmanTucson (89)	Matt BushmanTucson (89) of the BYU cougars
+b90	BYU   Devin KaufusiProvo (90)	Devin KaufusiProvo (90) of the BYU cougars
+b91	BYU   Earl Tuioti-MarinerTopeka (91)	Earl Tuioti-MarinerTopeka (91) of the BYU cougars
+b93	BYU   Bracken El-BakriHeights (93)	Bracken El-BakriHeights (93) of the BYU cougars
+b94	BYU   Freddy LivaiFontana (94)	Freddy LivaiFontana (94) of the BYU cougars
+b94	BYU   Gabe SummersSprings (94)	Gabe SummersSprings (94) of the BYU cougars
+b95	BYU   Khyiris TongaValley (95)	Khyiris TongaValley (95) of the BYU cougars
+b96	BYU   Carter WheatMesa (96)	Carter WheatMesa (96) of the BYU cougars
+b97	BYU   Austin ChambersMission (97)	Austin ChambersMission (97) of the BYU cougars
+b98s	BYU senior long snapper Mitch Harris (98)	Mitch Harris (98) of the BYU cougars
+b99	BYU   Zac DaweGrove (99)	Zac DaweGrove (99) of the BYU cougars

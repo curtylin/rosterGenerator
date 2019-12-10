@@ -1,0 +1,123 @@
+1	Troy Warner	6-1	202	Defensive Back	SR	San Marcos, California	Mission Hills HS	2016-2019
+1	Zach Wilson	6-3	203	Quarterback	SO	Draper, Utah	Corner Canyon HS	2018-2019
+2	Dallin Lee	6-2	200	Defensive Back	FR	Draper, Utah	Corner Canyon HS	2019
+2	Austin Lee	6-0	200	Defensive Back	SR	Draper, Utah	Salt Lake Community College	2017-2019
+2	Neil Pau'u	6-4	223	Wide Receiver	JR	Santa Ana, California	Servite HS	2017-2019
+3	Chaz Ah You	6-2	206	Linebacker	SO	Saratoga Springs, Utah	Westlake HS	2017 | 2019
+3	Jaren Hall	6-1	205	Quarterback	FR	Spanish Fork, Utah	Maple Mountain HS	2018-2019
+4	Lopini Katoa	6-1	210	Running Back	SO	American Fork, Utah	American Fork HS	2017-2019
+5	Dayan Ghanwoloku	5-11	200	Defensive Back	SR	Layton, Utah	Northridge HS	2015-2019
+5	Ty'Son Williams	6-0	220	Running Back	SR	Sumter, South Carolina	University of South Carolina	2019
+7	George Udo	6-1	203	Defensive Back	FR	Antioch, California	Berean Christian HS	2019
+10	Javelle Brown	6-1	182	Defensive Back	FR	San Diego, California	Mira Mesa HS	2019
+10	Joe Critchlow	6-4	220	Quarterback	SO	Franklin, Tennessee	Franklin HS	2017-2019
+11	Isaiah Herron	6-1	175	Defensive Back	FR	Las Vegas, Nevada	Arbor View HS	2018-2019
+12	Malik Moore	6-1	186	Defensive Back	SO	San Diego, California	Point Loma HS	2018-2019
+13	Micah Simon	6-1	195	Wide Receiver	SR	Dallas, Texas	Bishop Dunne HS	2015-2019
+15	Aleva Hifo	5-10	187	Wide Receiver	SR	Menifee, California	Heritage HS	2016-2019
+16	D'Angelo Mandell	6-1	185	Defensive Back	SO	San Diego, California	Del Norte HS	2017-2019
+16	Baylor Romney	6-2	193	Quarterback	FR	El Paso, Texas	Franklin HS	2018-2019
+17	Matthew Criddle	6-1	205	Linebacker	SO	Highland, Utah	Snow College	2018-2019
+17	Moroni Laulu-Pututau	6-5	240	Tight End	SR	Hyrum, Utah	Mountain Crest HS	2015-2019
+18	Gunner Romney	6-3	188	Wide Receiver	SO	Chandler, Arizona	Chandler HS	2018-2019
+19	Danny Jones	6-4	240	Punter	JR	Essendon, Australia	La Trobe University	2018-2019
+19	Rhett Reilly	6-2	175	Quarterback	FR	Valley Center, California	Valley Center HS	2019
+20	Skyler Southam	6-0	195	Kicker	SO	Heber City, Utah	Wasatch HS	2018-2019
+21	Sam Lee	6-0	220	Linebacker	JR	Escondido, California	San Pasqual HS	2018-2019
+21	Talon Shumway	6-3	210	Wide Receiver	SR	South Jordan, Utah	Lone Peak HS	2015-2019
+22	Dimitri Gallow	6-0	190	Defensive Back	JR	Moreno Valley, California	Mt. San Jacinto College	2019
+22	Hayden Livingston	6-1	200	Defensive Back	FR	Rigby, Idaho	Rigby HS	2016 | 2019
+22	Nephi Stevens	5-11	190	Wide Receiver	SR	Aiea, Hawaii	Kemehameha HS	2013 | 2019
+23	Zayne Anderson	6-2	222	Linebacker	SR	Stansbury Park, Utah	Stansbury Park HS	2015-2019
+23	Batchlor Johnson IV	5-9	160	Wide Receiver	SR	Katy, Texas	Utah	2015 | 2019
+24	Luc Andrada	5-10	175	Wide Receiver	FR	Pueblo, Colorado	Pueblo East HS	2019
+24	Austin Kafentzis	6-1	200	Defensive Back	SR	Sandy, Utah	Arizona Western College	2017-2019
+25	Tyler Allgeier	5-11	220	Linebacker	FR	Fontana, California	Kaiser HS	2018-2019
+26	Mitchell Price	6-0	189	Defensive Back	SO	Pleasant Grove, Utah	Pleasant Grove HS	2017-2019
+26	Spencer Romney	5-10	171	Wide Receiver	SO	Pleasant Grove, Utah	Pleasant Grove HS, Snow College	2017 | 2019
+27	Jackson McChesney	6-0	205	Running Back	FR	Highland, Utah	Lone Peak HS	2019
+27	Beau Tanner	6-0	189	Defensive Back	SR	Gilbert, Arizona	Scottsdale Community College	2016-2019
+28	Sawyer Powell	6-1	200	Defensive Back	SR	West Richland, Washington	Richland HS	2012 | 2015-2019
+29	Chase Wester	5-11	195	Running Back	SO	Hoschton, Georgia	Jackson County HS	2019
+29	Shamon Willis	5-10	180	Defensive Back	SO	Draper, Utah	Weber State	2019
+30	Keenan Ellis	6-0	175	Defensive Back	SO	San Diego, California	Bonita Vista HS	2017-2019
+30	Will Watanabe	5-10	190	Defensive Back	FR	Provo, Utah	Timpview HS	2019
+30	Alec Wyble-Meza	5-10	206	Running Back	SO	Casa Grande, Arizona	Scottsdale Community College	2019
+31	Jacob Boren	5-9	180	Wide Receiver	FR	Salt Lake City, Utah	Highland HS	2019
+31	Max Tooley	6-2	225	Linebacker	FR	Bountiful, Utah	Bountiful HS	2018-2019
+32	Hank Tuipulotu	6-3	240	Tight End	FR	Fort Mill, South Carolina	Nation Ford HS	2018-2019
+32	Chris Wilcox	6-2	200	Defensive Back	SR	Fontana, California	Eleanor Roosevelt HS	2016-2019
+33	Emmanuel Esukpa	5-11	225	Running Back	SR	Grand Prairie, Texas	Rice University	2019
+34	Kavika Fonua	6-0	210	Linebacker	JR	Syracuse, Utah	Syracuse HS	2014 | 2016-2019
+34	Tavita Gagnier	6-2	192	Defensive Back	FR	Tooele, Utah	Stansbury HS	2019
+35	Sione Finau	5-11	185	Running Back	FR	Kearns, Utah	Kearns HS	2018-2019
+35	Ammon Hannemann	6-1	200	Defensive Back	FR	Highland, Utah	Lone Peak HS	2019
+36	Kade Pupunu	6-3	222	Linebacker	FR	Draper, Utah	Corner Canyon HS	2019
+36	Morgan Pyper	6-2	202	Defensive Back	FR	Idaho Falls, Idaho	Hillcrest HS	2018-2019
+37	Kimball Henstrom	6-0	189	Defensive Back	FR	Draper, Utah	Alta HS	2019
+37	Masen Wake	6-1	250	Tight End	FR	Cedar Hills, Utah	Lone Peak HS	2019
+38	Jackson Kaufusi	6-2	226	Linebacker	FR	Cottonwood Heights, Utah	Brighton HS	2018-2019
+39	Jake Oldroyd	6-1	195	Kicker, Punter	SO	Southlake, Texas	Carroll HS	2016 | 2019
+41	Keenan Pili	6-3	224	Linebacker	FR	Provo, Utah	Timpview HS	2016 | 2019
+42	Kyle Griffitts	6-3	236	Tight End	JR	Windermere, Florida	West Orange HS	2016-2019
+43	Chapman Beaird	6-3	200	Defensive Back	FR	Franklin, Tennessee	Franklin HS	2019
+43	Jared Kapisi	6-0	195	Defensive Back	JR	Pukalani, Hawaii	Maui HS	2014 | 2017-2019
+44	Seleti Fevaleaki	6-3	251	Defensive Line	FR	Corona, California	Centennial HS	2019
+45	Darius McFarland	6-2	245	Defensive Line	FR	Brigham City, Utah	Box Elder HS	2018-2019
+46	Drew Jensen	6-2	215	Linebacker	FR	Salt Lake City, Utah	Brighton HS	2018-2019
+46	Pepe Tanuvasa	6-1	225	Linebacker	SO	Tigard, Oregon	Navy	2019
+47	Ben Bywater	6-3	215	Linebacker	FR	Salt Lake City, Utah	Olympus HS	2019
+48	Solofa Funa	6-2	245	Linebacker	FR	Spanish Fork, Utah	Spanish Fork HS	2019
+48	Alex Miskela	6-1	235	Linebacker	FR	Orange County, California	Los Alamitos HS	2019
+49	Payton Wilgar	6-3	235	Linebacker	FR	St. George, Utah	Dixie HS	2018-2019
+50	Sam Baldwin	6-3	205	Linebacker	SR	Rexburg, Idaho	Madison HS	2013 | 2016-2017 | 2019
+51	Jeddy Tuiloma	6-1	300	Defensive Line	SO	Topeka, Kansas	Butler Community College	2017-2019
+52	Trajan Pili	6-2	255	Defensive Line	SR	Las Vegas, Nevada	Centennial HS	2013 | 2016-2019
+53	Isaiah Kaufusi	6-2	215	Linebacker	JR	Cottonwood Heights, Utah	Brighton HS	2016-2019
+54	Britton Hogan	6-3	200	Deep Snapper	FR	Salt Lake City, Utah	Olympus HS	2016 | 2019
+55	Lorenzo Fauatea	6-4	300	Defensive Line	SO	West Valley, Utah	Hunter HS	2017-2019
+56	Clark Barrington	6-6	302	Offensive Line	FR	Spokane, Washington	University HS	2018-2019
+57	Alden Tofa	6-4	260	Defensive Line	SO	West Jordan, Utah	West Jordan HS	2017-2019
+58	Uriah Leiataua	6-4	262	Defensive Line	JR	Compton, California	Dominguez HS	2016-2019
+59	Thomas Shoaf	6-5	300	Offensive Line	SR	Columbus, Indiana	Columbus North HS	2013 | 2016-2019
+61	Keanu Saleapaga	6-6	310	Offensive Line	SO	Lakewood, California	La Mirada HS	2017-2019
+62	Atunaisa Mahe	6-1	307	Defensive Line	FR	West Jordan, Utah	West Jordan HS	2018-2019
+63	Joe Tukuafu	6-4	285	Offensive Line	SO	Glendale, Utah	East HS	2017-2019
+64	Brayden Keim	6-8	275	Offensive Line	FR	Sandy, Utah	Alta HS	2019
+65	Ethan Atagi	6-5	320	Offensive Line	FR	Ogden, Utah	Bonneville HS	2018-2019
+66	James Empey	6-4	300	Offensive Line	SO	American Fork, Utah	American Fork HS	2017-2019
+67	Brady Christensen	6-6	295	Offensive Line	SO	Bountiful, Utah	Bountiful HS	2017-2019
+68	Mo Unutoa	6-5	304	Offensive Line	SO	Kapaa, Hawaii	Utah	2019
+69	Tristen Hoge	6-5	310	Offensive Line	JR	Pocatello, Idaho	Notre Dame	2017-2019
+70	Brevan Ward	6-5	280	Offensive Line	SO	Gilbert, Arizona	Highland HS	2019
+71	Blake Freeland	6-8	285	Offensive Line	FR	Herriman, Utah	Herriman HS	2019
+72	Addison Pulsipher	6-5	293	Offensive Line	SR	Temecula, California	Temecula Valley HS	2013 | 2016-2019
+73	Caden Haws	6-2	300	Offensive Line	FR	Little Rock, Arkansas	Pulaski Academy	2019
+74	Kieffer Longson	6-7	319	Offensive Line	JR	San Ramon, California	Dougherty Valley HS	2016-2019
+75	JT Gentry	6-5	287	Offensive Line	FR	Littleton, Colorado	Columbine HS	2018-2019
+76	Harris LaChance	6-8	310	Offensive Line	FR	Herriman, Utah	Herriman HS	2018-2019
+77	Chandon Herring	6-7	310	Offensive Line	JR	Gilbert, Arizona	Perry HS	2016-2019
+79	Jacob Smith	6-5	306	Offensive Line	FR	Farmington, Minnesota	Rosemount HS	2018-2019
+80	Koy Harris	6-1	175	Wide Receiver	FR	Henderson, Nevada	Coronado HS	2018-2019
+80	Nate Heaps	6-4	260	Tight End	SO	American Fork, Utah	American Fork HS	2017-2019
+82	Talmage Gunther	5-11	190	Wide Receiver	FR	Cedar Hills, Utah	Lone Peak HS	2019
+82	Dax Milne	6-0	187	Wide Receiver	SO	South Jordan, Utah	Bingham HS	2018-2019
+83	Isaac Rex	6-6	240	Tight End	FR	San Clemente, California	San Clemente HS	2019
+83	Austin Whetzel	5-11	175	Wide Receiver	JR	Lehi, Utah	Lehi HS	2017-2019
+84	Tevita Ika	5-8	186	Wide Receiver	FR	Provo, Utah	Provo HS	2019
+85	Brayden Cosper	6-3	205	Wide Receiver	FR	South Jordan, Utah	Bingham HS	2018-2019
+86	Keanu Hill	6-4	210	Wide Receiver	FR	Bedford, Texas	Trinity HS	2019
+86	Jacob Talbot	6-3	205	Wide Receiver	SO	Redmond, Washington	Redmond HS	2019
+88	JJ Nwigwe	6-5	260	Defensive Line	SR	Rockwall, Texas	Rockwall-Heath HS	2015-2019
+88	Alema Pilimai	6-4	235	Tight End	SO	Tustin, California	Tustin HS	2016 | 2019
+89	Matt Bushman	6-5	245	Tight End	JR	Tucson, Arizona	Sabino HS	2017-2019
+90	Devin Kaufusi	6-7	257	Defensive Line	SO	Provo, Utah	Timpview HS	2018-2019
+91	Earl Tuioti-Mariner	6-4	290	Defensive Line	SO	Topeka, Kansas	Washburn Rural HS	2017-2019
+93	Bracken El-Bakri	6-3	290	Defensive Line	JR	Cottonwood Heights, Utah	Brighton HS	2014 | 2017-2019
+94	Freddy Livai	6-3	260	Defensive Line	FR	Fontana, California	AB Miller HS	2019
+94	Gabe Summers	6-2	263	Defensive Line	FR	Saratoga Springs, Utah	Westlake HS	2018-2019
+95	Khyiris Tonga	6-4	321	Defensive Line	JR	West Valley, Utah	Granger HS	2017-2019
+96	Carter Wheat	6-4	230	Tight End	FR	Mesa, Arizona	Red Mountain HS	2019
+97	Austin Chambers	6-5	301	Defensive Line	JR	Shawnee Mission, Kansas	Shawnee Mission West HS	2016-2019
+98	Mitch Harris	6-4	219	Deep Snapper	SR	Gilbert, Arizona	Perry HS	2015-2019
+99	Zac Dawe	6-4	270	Defensive Line	JR	Pleasant Grove, Utah	Pleasant Grove HS	2016-2019

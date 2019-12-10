@@ -1,0 +1,109 @@
+Drew Dixon	1	Dixon, Drew	WR	6-3	205	R-So.	Tucson, Ariz.	Sabino HS	
+Tony Fields II	1	Fields II, Tony	LB	6-1	220	Jr.	Las Vegas, Nev.	Desert Pines, HS	
+Lorenzo Burns	2	Burns, Lorenzo	CB	5-11	175	R-Jr.	Murrieta, Calif.	Linfield Christian HS	
+Boobie Curry	2	Curry, Boobie	WR	6-2	206	Fr.	Houston, Texas	St. Pius X HS	
+Tre Adams	3	Adams, Tre	WR	6-4	195	R-Fr.	Frisco, Texas	Wakeland HS	
+Jarrius Wallace	3	Wallace, Jarrius	S	6-1	185	R-Jr.	Villa, La.	John Ehret HS	
+Rhett Rodriguez	4	Rodriguez, Rhett	QB	6-0	192	Jr.	Tucson, Ariz.	Catalina Foothills HS	
+Christian Roland-Wallace	4	Roland-Wallace, Christian	CB	5-11	198	Fr.	Palmdale, Calif.	William J Knight HS	
+Brian Casteel	5	Casteel, Brian	WR	6-0	195	Jr.	Pasadena, Calif.	Charter Oak HS	
+Christian Young	5	Young, Christian	S	6-2	217	So.	Houston, Texas	Foster HS	
+Michael Wiley	6	Wiley, Michael	RB	5-11	186	Fr.	Houston, Texas	Strake Jesuit HS	
+Scottie Young Jr.	6	Young Jr., Scottie	S	5-11	201	Jr.	San Diego, Calif.	Helix HS	
+Jaden Mitchell	7	Mitchell, Jaden	WR	5-9	175	Fr.	Las Vegas, Nev.	Desert Pines HS	
+Colin Schooler	7	Schooler, Colin	LB	6-1	229	Jr.	Dana Point, Calif.	Mission Viejo HS	
+Thomas Aych	8	Aych, Thomas	WR	6-0	167	R-So.	San Angelo, Texas	Central HS	Angelo State
+Anthony Pandy	8	Pandy, Anthony	LB	6-0	225	Jr.	Carson, Calif.	Narbonne HS	
+Day Day Coleman	9	Coleman, Day Day	LB	6-2	218	R-Fr.	Dallas, Texas	West Mesquite HS	
+Jalen Johnson	9	Johnson, Jalen	WR	6-2	199	Fr.	Corona, Calif.	Roosevelt HS	
+Jamarye Joiner	10	Joiner, Jamarye	WR	6-1	210	R-Fr.	Tucson, Ariz.	Cienega HS	
+Tayvian Cunningham	11	Cunningham, Tayvian	WR	5-7	181	Jr.	Vacaville, Calif.	Wood HS	Sacramento City CC
+Troy Young	11	Young, Troy	S	6-0	205	Jr.	Prichard, Ala.	Mobile Christian HS	
+JB Brown	12	Brown, JB	DE	6-3	255	Jr.	Long Beach, Calif.	Long Beach Poly HS	
+Kevin Doyle	12	Doyle, Kevin	QB	6-3	205	R-Fr.	Washington D.C.	St. John's College HS	
+Malcolm Holland	12	Holland, Malcolm	WR	5-11	189	R-Sr.	Chandler, Ariz.	Hamilton HS	
+Luke Ashworth	13	Ashworth, Luke	QB	6-1	200	R-Fr.	Phoenix, Ariz.	Arcadia HS	
+Chacho Ulloa	13	Ulloa, Chacho	S	5-11	200	Sr.	Corona, Calif.	Centennial HS	
+Khalil Tate	14	Tate, Khalil	QB	6-2	215	Sr.	Inglewood, Calif.	Junipero Serra HS	
+Kylan Wilborn	14	Wilborn, Kylan	STUD	6-2	242	Jr.	Northridge, Calif.	Notre Dame HS	
+McKenzie  Barnes	15	Barnes, McKenzie	CB	6-1	193	So.	Fresno, Calif.	Edison HS	
+Cameron Feitz	15	Fietz, Cameron	QB	6-1	192	R-Fr.	Calgary, Alberta	Holy Trinity Academy	University of British Columbia
+Thomas Reid III	16	Reid III, Thomas	WR	6-2	205	R-Jr.	Chesapeake, Va.	Radford HS	
+Grant Gunnell	17	Gunnell, Grant	QB	6-6	225	Fr.	The Woodlands, Texas	St. Pius X HS	
+Jace Whittaker	17	Whittaker, Jace	CB	5-11	185	R-Sr.	Oceanside, Calif.	Oceanside HS	
+Cedric Peterson	18	Peterson, Cedric	WR	6-1	197	R-Sr.	Moreno Valley, Calif.	Rancho Verde HS	
+Dhameer Warren	18	Warren, Dhameer	CB	6-0	173	Fr.	Merced, Calif.	Merced HS	
+Kyle Ostendorp	19	Ostendorp, Kyle	P	6-1	202	Fr.	Phoenix, Ariz.	Desert Vista HS	
+Kwabena Watson	19	Watson, Kwabena	DE	6-2	210	Fr.	Fresno, Calif.	Edison HS	
+Darrius "Bam" Smith	20	Smith, Darrius "Bam"	RB	5-9	176	R-Fr.	Houston, Texas	Dawson HS	
+J.J. Taylor	21	Taylor, J.J.	RB	5-6	185	R-Jr.	Corona, Calif.	Centennial HS	
+Gary Brightwell	23	Brightwell, Gary	RB	6-1	210	Jr.	Chester, Pa.	St. Frances Academy	
+Malik Hausman	23	Hausman, Malik	CB	6-0	175	R-So.	Las Vegas, Nev.	Bishop Gorman	
+Rhedi Short	24	Short, Rhedi	S	6-1	194	R-So.	Los Angeles, Calif.	Cathedral HS	
+Jaxen Turner	24	Turner, Jaxen	S	6-0	190	Fr.	Moreno Valley, Calif.	Rancho Verde HS	
+Devin Green	25	Green, Devin	WR	5-10	166	Fr.	Tucson, Ariz.	Salpointe Catholic HS	
+Bobby Wolfe	25	Wolfe, Bobby	CB	6-1	170	Fr.	Houston, Texas	Madison HS	
+Matt Aragon	26	Aragon, Matt	P	6-5	213	R-Sr.	Tucson, Ariz.	Ciengea HS	
+Eddie Siaumau-Sanitoa	26	Siaumau-Sanitoa, Eddie	LB	6-3	235	Fr.	Pago Pago, American Samoa	Leone HS	
+Derrion Clark	27	Clark, Derrion	LB	6-1	211	Fr.	Dallas, Texas	South Oak Cliff HS	
+Nazar Bombata	28	Bombata, Nazar	RB	6-0	206	R-Fr.	Los Angeles, Calif.	Bishop Alemany HS	
+Samari Springs	29	Springs, Samari	S	6-0	189	Jr.	Ashburn, Va.	Blair Woods HS	Richmond
+Quinn Sullivan	30	Sullivan, Quinn	S	5-11	181	Fr.	Bellevue, Wash.	IMG Academy (Fla.)	
+Tristan Cooper	31	Cooper, Tristan	S	6-2	198	Sr.	El Paso, Texas	Andress HS	
+Jacob Meeker-Hackett	32	Meeker-Hackett, Jacob	P/WR	6-0	199	R-Jr.	Tucson, Ariz.	Cienega High School	Texas State University
+Blake Washington	32	Washington, Blake	S	5-9	182	Fr.	Corona, Calif.	Roosevelt HS	
+Blake Pfaff	33	Pfaff, Blake	S	5-11	185	R-So.	Lucas, Texas	Lovejoy HS	
+Nathan Tilford	33	Tilford, Nathan	RB	6-2	207	R-So.	Fontana, Calif.	Colony HS	
+John Burton	34	Burton, John	RB	5-11	210	Fr.	West Hills, Calif.	Chaminade College Prep	
+Karl Altenburg	35	Altenburg, Karl	WR	5-9	185	R-So.	Brooklyn Park, Minn.	Park Center Senior HS	
+Bryce  Coleman	36	Coleman, Bryce	RB	5-9	185	R-Jr.	Tucson, Ariz.	Mountain View HS	Eastern Arizona CC
+Xavier Bell	37	Bell, Xavier	S	6-2	196	R-So.	Long Beach, Calif.	Mater Dei HS	
+Dante Smith	38	Smith, Dante	LB	5-10	223	So.	Round Rock, Texas	Stony Point HS	
+Tristen D	39	D'Angelo, Tristen	TE	6-3	203	So.	Anthem, Ariz.	Boulder Creek HS	Scottsdale CC
+Jashon Butler	40	Butler, Jashon	WR	5-8	182	R-Fr.	Lynwood, Wash.	Meadowdale HS	
+Dante Diaz-Infante	40	Diaz-Infante, Dante	DE	6-1	250	Jr.	Phoenix, Ariz.	Brophy College Prep	Phoenix CC
+Daniel Egbo	41	Egbo, Daniel	WR	6-2	192	Sr.	Gilbert, Ariz.	Highland HS	
+Connor Hutchings	42	Hutchings, Connor	TE/OL	6-4	230	Jr.	Phoenix, Ariz.	Pinnacle HS	Phoenix CC
+Lucas Havrisik	43	Havrisik, Lucas	K	6-2	184	Jr.	Riverside, Calif.	Norco HS	
+Calib McRae	44	McRae, Calib	LB	6-1	246	Fr.	Tucson, Ariz.	Mountain View HS	
+Issaiah  Johnson	45	Johnson, Issaiah	DE	6-1	245	R-Fr.	Victorville, Calif.	Los Alamitos HS	
+Jack Koceman	46	Koceman, Jack	TE	6-4	235	R-Fr.	Santa Barbara, Calif.	Santa Barbara HS	
+Rourke Freeburg	47	Freeburg, Rourke	S	6-2	207	R-So.	Scottsdale, Ariz.	Desert Mountain HS	
+Parker Henley	48	Henley, Parker	LB	5-11	222	R-So.	Chandler, Ariz.	Chandler HS	
+Jalen Harris	49	Harris, Jalen	STUD	6-5	250	R-So.	Mesa, Ariz.	Desert Ridge HS	
+Josh McCauley	50	McCauley, Josh	OL	6-3	292	R-Jr.	Mesa, Ariz.	Red Mountain HS	
+Lee Anderson III	51	Anderson III, Lee	STUD	6-1	246	Sr.	Moreno Valley, Calif.	Rancho Verde HS	
+Donald Reiter	51	Reiter, Donald	LS	6-0	231	R-Jr.	Glendale, Ariz.	Brophy Prep	
+Jon Jacobs	53	Jacobs, Jon	OL	6-4	305	R-Jr.	Gainesville, Va.	The Taft School	
+Richard Merritt	53	Merritt, Richard	LB	6-0	222	R-Jr.	Clovis, Calif.	Buchanan HS	
+Bryson  Cain	54	Cain, Bryson	OT	6-5	305	R-Jr.	Temecula, Calif.	Great Oak HS	
+Chandler Kelly	55	Kelly, Chandler	DL	6-2	209	Fr.	Chandler, Ariz.	Basha HS	
+Jamari Williams	55	Williams, Jamari	OL	6-3	298	Fr.	Fort Lauderdale, Fla.	Cardinal Gibbons HS	
+Josh Donovan	56	Donovan, Josh	OL	6-5	317	Jr.	College Station, Texas	College Station HS	Trinity Valley CC
+Nahe Sulunga	58	Sulunga, Nahe	DT	6-2	275	R-Fr.	Inglewood, Calif.	Calabasas HS	
+Mykee Irving	60	Irving, Mykee	DL	6-3	320	R-Fr.	Calabasas, Calif.	Calabasas HS	
+Steven Bailey	63	Bailey, Steven	OL	6-3	305	Sr.	Litchfield Park, Ariz.	Peoria Centennial HS	Glendale CC
+Seth MacKellar	64	MacKellar, Seth	LS	5-11	195	Fr.	San Juan Capistrano, Calif.	J Serra Catholic	
+Robert Congel	66	Congel, Robert	OL	6-4	310	R-So.	Greenwood Village, Colo.	IMG Academy [Fla.]	Texas A&M
+David Watson	67	Watson, David	OL	6-5	303	R-Fr.	Tucson, Ariz.	Amphitheater HS	
+Edgar Burrola	72	Burrola, Edgar	OL	6-6	305	R-So.	Las Vegas, Nev.	Desert Pines HS	
+Paiton Fears	74	Fears, Paiton	OL	6-5	308	So.	Mascotte, Fla.	Lake Minneola HS	Hutchinson CC [Kan.]
+Cody Creason	76	Creason, Cody	OL	6-4	295	R-Sr.	Folsom, Calif.	Folsom HS	
+Jordan Morgan	77	Morgan, Jordan	OL	6-5	287	Fr.	Marana, Ariz.	Marana HS	
+Donovan Laie	78	Laie, Donovan	OL	6-4	315	So.	Oceanside, Calif.	Oceanside HS	
+Tyson Gardner	79	Gardner, Tyson	OL	6-4	300	R-So.	Queen Creek, Ariz.	Queen Creek High School	
+Nathan Halsell	80	Halsell, Nathan	K	6-1	205	Fr.	Santa Maria, Calif.	St. Joseph HS	
+Jalen Cochran	81	Cochran, Jalen	DE	6-4	270	R-Jr.	Plymouth, Mich.	Canton HS	
+Bryce Wolma	81	Wolma, Bryce	TE	6-4	245	Jr.	Saline, Mich.	Saline HS	
+Zach Williams	82	Williams, Zach	WR	6-3	216	R-Fr.	Johns Creek, Ga.	Johns Creek HS	
+Terrence  Johnson	83	Johnson, Terrence	WR	6-2	211	R-Sr.	Tucson, Ariz.	Cienega HS	South Mountain CC/James Madison
+Justin Belknap	86	Belknap, Justin	DE	6-3	245	R-Sr.	Henderson, Nev.	Coronado HS	
+Stanley Berryhill III	86	Berryhill III, Stanley	WR	5-10	177	R-So.	Tucson, Ariz.	Orange Lutheran HS(Calif.)	
+Vince Ellison	88	Ellison, Vince	WR	6-2	170	Fr.	Scottsdale, Ariz.	Desert Mountain HS	
+Brice Vooletich	89	Vooletich, Brice	WR	5-10	194	R-Fr.	Houston, Texas	St. Pius X HS	
+Trevon Mason	90	Mason, Trevon	DL	6-5	310	Jr.	Arlington, Texas	Sam Houston HS	Navarro College
+Finton Connolly	91	Connolly, Finton	DT	6-5	300	R-Sr.	Gilbert, Ariz.	Campo Verde HS	
+Kyon  Barrs	92	Barrs, Kyon	DT	6-2	299	Fr.	Murrieta, Calif.	Murrieta Mesa High	
+Naz Higgins	94	Higgins, Naz	DT	6-3	272	Fr.	Stroudsburg, Penn.	The Hill School	
+Myles Tapusoa	99	Tapusoa, Myles	DL	6-1	330	Jr.	Rose Park, Utah	West HS	Eastern Arizona CC
+Cameron Weinberg	99	Weinberg, Cameron	P/K	5-11	177	Fr.	Mesa, Ariz.	Desert Ridge HS
